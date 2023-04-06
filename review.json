@@ -1,0 +1,434 @@
+{
+    "-FxvpU1e3RYVaIARHUT9jA": {
+        "possible_languages": [
+            "en",
+            "es"
+        ],
+        "reviews": [
+            {
+                "id": "hMXKCCuvaQza8J-dRQvUtA",
+                "rating": 5,
+                "text": "best tacos we had in Anaheim , we will definitely go\nback on our next visit . will recommend getting their ranchera meat!",
+                "time_created": "2022-11-27 16:47:31",
+                "url": "https://www.yelp.com/biz/tacos-los-cholos-anaheim-anaheim?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=hMXKCCuvaQza8J-dRQvUtA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "z0BaR7WECtylwu4cX8KJYg",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/LZJTy4ZlK4G3dzBl9bUXhw/o.jpg",
+                    "name": "Oswaldo C.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=z0BaR7WECtylwu4cX8KJYg"
+                }
+            },
+            {
+                "id": "v0SjFoJDmGU1fpvzvujGGg",
+                "rating": 5,
+                "text": "Simply the best tacos and mulita I have ever eaten. It is always well worthy the 30 minute drive.",
+                "time_created": "2022-11-04 09:42:01",
+                "url": "https://www.yelp.com/biz/tacos-los-cholos-anaheim-anaheim?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=v0SjFoJDmGU1fpvzvujGGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "dgJXmHeZNIIhfYhsA6-C2w",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/kAQgp6aGJpcvIOBm_b2pxw/o.jpg",
+                    "name": "Don S.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=dgJXmHeZNIIhfYhsA6-C2w"
+                }
+            },
+            {
+                "id": "jTMvDwtyZ36IETrBCjT4ZQ",
+                "rating": 5,
+                "text": "Best tacos ever !! Don't need no passport , when you can come here and taste real authentic tacos . Could eat these everyday ( no this is not a paid...",
+                "time_created": "2022-11-22 18:30:21",
+                "url": "https://www.yelp.com/biz/tacos-los-cholos-anaheim-anaheim?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=jTMvDwtyZ36IETrBCjT4ZQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "eMWzjwaXRJsmrSzm7zZBAQ",
+                    "image_url": null,
+                    "name": "Maria G.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=eMWzjwaXRJsmrSzm7zZBAQ"
+                }
+            }
+        ],
+        "total": 2178
+    },
+    "17G67GkODedOfTM5QTGCwQ": {
+        "possible_languages": [
+            "en",
+            "es",
+            "ja"
+        ],
+        "reviews": [
+            {
+                "id": "wIZuGOBvwqnOvTuDkTNwfQ",
+                "rating": 5,
+                "text": "Our family's favorite taco place in the area- and we've been to many! The tacos are made with homemade tortillas that you can watch the kitchen make, and...",
+                "time_created": "2022-12-02 05:51:59",
+                "url": "https://www.yelp.com/biz/taquiero-taco-patio-irvine?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=wIZuGOBvwqnOvTuDkTNwfQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "fayGOj7OLiAWlKa0rc2Fvg",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/9tXOycG0XoV2bJa01sFX2w/o.jpg",
+                    "name": "Kristina S.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=fayGOj7OLiAWlKa0rc2Fvg"
+                }
+            },
+            {
+                "id": "y6xREjgcFD4KNaf_JlzVMA",
+                "rating": 3,
+                "text": "The last couple of times we have been here, the service was not good and the food quality was not the same.\n\nThere was one person working the register and...",
+                "time_created": "2022-11-17 14:33:07",
+                "url": "https://www.yelp.com/biz/taquiero-taco-patio-irvine?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=y6xREjgcFD4KNaf_JlzVMA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "f-iREBx-5CznQjIMWmoOkw",
+                    "image_url": "https://s3-media4.fl.yelpcdn.com/photo/hodmiocDquE2toMAnALtnw/o.jpg",
+                    "name": "Nick H.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=f-iREBx-5CznQjIMWmoOkw"
+                }
+            },
+            {
+                "id": "Vsb9jkC9rt7RSmmOh731Lg",
+                "rating": 2,
+                "text": "Service was great,  but my carnitas burrito was crying for some flavor.  Tasted like absolutely no salt was used.  I figured id add thier salsa, which...",
+                "time_created": "2022-11-15 13:32:04",
+                "url": "https://www.yelp.com/biz/taquiero-taco-patio-irvine?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=Vsb9jkC9rt7RSmmOh731Lg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "Et37wElOrQOg6VQ310-b3g",
+                    "image_url": "https://s3-media4.fl.yelpcdn.com/photo/4_fuwqX_ezffC9EHaMd13g/o.jpg",
+                    "name": "David V.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=Et37wElOrQOg6VQ310-b3g"
+                }
+            }
+        ],
+        "total": 1056
+    },
+    "2UmVVNF6mbZfz5dXYzDoQg": {
+        "possible_languages": [
+            "en",
+            "es"
+        ],
+        "reviews": [
+            {
+                "id": "fPVZM6nYBW98ulrFoH2h6g",
+                "rating": 5,
+                "text": "If you like burritos, tacos and happiness then this is the place for you.  Josephina likes the bean and cheese burrito. Christopher likes the Oceanside...",
+                "time_created": "2022-10-29 11:38:33",
+                "url": "https://www.yelp.com/biz/lupes-mexican-eatery-dana-point-2?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=fPVZM6nYBW98ulrFoH2h6g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "MwlO-4Rfl3c7ULHpF9lajg",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/VPmXZpp0yuO66G95fLum2A/o.jpg",
+                    "name": "Josephina And Christopher P.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=MwlO-4Rfl3c7ULHpF9lajg"
+                }
+            },
+            {
+                "id": "g9HyyYv9lmY6Nv_GODJeAg",
+                "rating": 1,
+                "text": "They bussed my food when I got up to go to the bathroom.\n\nThe lady was nice enough and offered to remake it or give me a refund.\n\nThen Jose, the person who...",
+                "time_created": "2022-10-28 19:42:58",
+                "url": "https://www.yelp.com/biz/lupes-mexican-eatery-dana-point-2?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=g9HyyYv9lmY6Nv_GODJeAg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "y0yFgzTcKBwuJJyZo1u0NQ",
+                    "image_url": "https://s3-media4.fl.yelpcdn.com/photo/_cC8_o4pdVyfgrNWridUQw/o.jpg",
+                    "name": "Michael G.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=y0yFgzTcKBwuJJyZo1u0NQ"
+                }
+            },
+            {
+                "id": "Rcj8msf2GCH4q6swJg_boA",
+                "rating": 4,
+                "text": "We decided to try this place after a day at the beach, because who doesn't want fish tacos and California burritos after a day in the sun? \n\nI ordered a two...",
+                "time_created": "2022-09-18 21:44:44",
+                "url": "https://www.yelp.com/biz/lupes-mexican-eatery-dana-point-2?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=Rcj8msf2GCH4q6swJg_boA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "_oicwXdBKEE7vSfU5YV52A",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/g_uZqmBPctiRjsWeqDvhyA/o.jpg",
+                    "name": "Heather R.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=_oicwXdBKEE7vSfU5YV52A"
+                }
+            }
+        ],
+        "total": 1671
+    },
+    "4P2iknlrn4T730fXOuHRug": {
+        "possible_languages": [
+            "en"
+        ],
+        "reviews": [
+            {
+                "id": "PbQJ5U4j98k2X4Hed5avJQ",
+                "rating": 5,
+                "text": "Wow! Instagram did me right! I got the birria and cecina ans it was so delicious. Packed with flavor, those are a must try",
+                "time_created": "2022-11-19 10:55:49",
+                "url": "https://www.yelp.com/biz/the-taco-station-tustin?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=PbQJ5U4j98k2X4Hed5avJQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "B0bowSCQs8PDexFde7Mgjw",
+                    "image_url": null,
+                    "name": "Susy P.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=B0bowSCQs8PDexFde7Mgjw"
+                }
+            },
+            {
+                "id": "CZNM2t2wxglOByNNuoNxxQ",
+                "rating": 5,
+                "text": "Saw the high marks on Yelp so went in to try it:  It did not disappoint.  The food was incredible, and the people are really nice.  Love the Birria tacos,...",
+                "time_created": "2022-11-22 19:23:09",
+                "url": "https://www.yelp.com/biz/the-taco-station-tustin?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=CZNM2t2wxglOByNNuoNxxQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "bNxX-IuCGlXwOptNoYeUDQ",
+                    "image_url": null,
+                    "name": "Tracy S.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=bNxX-IuCGlXwOptNoYeUDQ"
+                }
+            },
+            {
+                "id": "0lGiHGqK4ffCvUEgfLDz7g",
+                "rating": 5,
+                "text": "Glad I found out about this place on social media!\n\nFor a place hidden inside of a gas station, they've attracted quite a crowd each time I've gone. I've...",
+                "time_created": "2022-11-02 12:04:27",
+                "url": "https://www.yelp.com/biz/the-taco-station-tustin?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=0lGiHGqK4ffCvUEgfLDz7g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "9F1qLG8jJDpUUPbvgIB42Q",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/g3YPb8_TftninmjUaiF2Kw/o.jpg",
+                    "name": "Vu P.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=9F1qLG8jJDpUUPbvgIB42Q"
+                }
+            }
+        ],
+        "total": 83
+    },
+    "C8v4EbIMwP33qz51LP4l6Q": {
+        "possible_languages": [
+            "en",
+            "es"
+        ],
+        "reviews": [
+            {
+                "id": "4wt2489MGMvptP42HyD_gQ",
+                "rating": 5,
+                "text": "The menu has changed slightly over the years however Taco Mesa has continued to provide great food and service.\n\nProvecho!",
+                "time_created": "2022-08-22 22:55:55",
+                "url": "https://www.yelp.com/biz/taco-mesa-costa-mesa?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=4wt2489MGMvptP42HyD_gQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "baqzvOFR2HcTBrreK-MoMA",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/nBX356FqAIXgNDtSZnmJmQ/o.jpg",
+                    "name": "Jaclyn M.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=baqzvOFR2HcTBrreK-MoMA"
+                }
+            },
+            {
+                "id": "a1xbanDdM4pFzl9obTqRiQ",
+                "rating": 1,
+                "text": "We order religiously from Taco Mesa at least once a week for over 2.5 years.  Our go to items are the chicken torta, a variety of their burritos, and/or...",
+                "time_created": "2022-12-02 20:56:09",
+                "url": "https://www.yelp.com/biz/taco-mesa-costa-mesa?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=a1xbanDdM4pFzl9obTqRiQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "ei_GzAImuQ0tpRtUGWGADw",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/4XxWr-EIY4nC3A3dxk_Wdg/o.jpg",
+                    "name": "Casey H.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=ei_GzAImuQ0tpRtUGWGADw"
+                }
+            },
+            {
+                "id": "wQOs1jZfGW9zZMTleht5PA",
+                "rating": 2,
+                "text": "Chipotle with tattoos.\n\nThis place has an edgy anti-authority thing going on. But we're talking more like Guy Fieri than Guy Fawkes.\n\nI'm not sure when...",
+                "time_created": "2022-09-24 12:26:11",
+                "url": "https://www.yelp.com/biz/taco-mesa-costa-mesa?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=wQOs1jZfGW9zZMTleht5PA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "lv5TnHGfrSb_CIisOw0irg",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/CP36hYMLVX8b7eC4fMgpQA/o.jpg",
+                    "name": "Jay K.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=lv5TnHGfrSb_CIisOw0irg"
+                }
+            }
+        ],
+        "total": 1767
+    },
+    "O4ckSzkCQ2dY80uwpEE2qA": {
+        "possible_languages": [
+            "en",
+            "es"
+        ],
+        "reviews": [
+            {
+                "id": "oC8E3J5Prtd9XfUpTnSXkw",
+                "rating": 5,
+                "text": "Get the Rosarito tacos! They are bigger than your regular tacos and come with beans, guacamole, meat of choice, cheese, and onion/cilantro on a bed of...",
+                "time_created": "2022-11-21 15:51:45",
+                "url": "https://www.yelp.com/biz/hol%C3%A9-mol%C3%A9-tustin-4?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=oC8E3J5Prtd9XfUpTnSXkw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "BQY5xjhzjQJowwLvQ4z8-w",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/O24GP3s2OTTzz38xluRZpQ/o.jpg",
+                    "name": "Eva I.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=BQY5xjhzjQJowwLvQ4z8-w"
+                }
+            },
+            {
+                "id": "Lpfx2bKRk4cmciT4_PP93g",
+                "rating": 1,
+                "text": "I'll preface this by saying it's Taco Tuesday, so maybe they're overwhelmed with orders and that's why they screwed up so impressively. But anyways.\n\nWe...",
+                "time_created": "2022-10-04 21:38:50",
+                "url": "https://www.yelp.com/biz/hol%C3%A9-mol%C3%A9-tustin-4?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=Lpfx2bKRk4cmciT4_PP93g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "1ZtJpUE9M6g4-u1TEXExUQ",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/k9OL14Tv1yADSObgpRC-rw/o.jpg",
+                    "name": "Lawrence W.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=1ZtJpUE9M6g4-u1TEXExUQ"
+                }
+            },
+            {
+                "id": "7dhdPLjllTjgwVNav6LLDw",
+                "rating": 2,
+                "text": "My only problem with the menu is the name of the restaurant, because the mole' here taste like cat food. There's Chinese food, Japanese food, Thai food,...",
+                "time_created": "2022-09-22 17:57:23",
+                "url": "https://www.yelp.com/biz/hol%C3%A9-mol%C3%A9-tustin-4?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=7dhdPLjllTjgwVNav6LLDw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "BA1prrFM_b8O7r_QTjHsjw",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/ke0OvIZGYn91MnJIWoHxRQ/o.jpg",
+                    "name": "Crazy M.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=BA1prrFM_b8O7r_QTjHsjw"
+                }
+            }
+        ],
+        "total": 1294
+    },
+    "T3UQrAKS5wpkstlQBK_gbw": {
+        "possible_languages": [
+            "en",
+            "es"
+        ],
+        "reviews": [
+            {
+                "id": "92pmjtcIjK9emHmogCXpSg",
+                "rating": 5,
+                "text": "The food here is delicious! A little on the high price but worth every penny! Been coming here for a while and never disappointed. Everyone that I introduce...",
+                "time_created": "2022-11-26 17:13:39",
+                "url": "https://www.yelp.com/biz/the-taco-stand-orange?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=92pmjtcIjK9emHmogCXpSg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "7-h6QVu-eqwLUF6f3cuT-w",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/VgTFPZmRVGGqHKNepVIh-Q/o.jpg",
+                    "name": "Ivan L.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=7-h6QVu-eqwLUF6f3cuT-w"
+                }
+            },
+            {
+                "id": "h9p9QVJAtQumiDL4gGHkhw",
+                "rating": 1,
+                "text": "We had been eyeing this place for awhile and wanted to love it. However, we were disappointed with our visit. We wanted to dine in and enjoy the vibe. When...",
+                "time_created": "2022-12-10 18:12:54",
+                "url": "https://www.yelp.com/biz/the-taco-stand-orange?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=h9p9QVJAtQumiDL4gGHkhw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "7UK-g31YqCcCD6ZjS7ZbyQ",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/H7jXllmEhU9YsIGTUERI5Q/o.jpg",
+                    "name": "Naomi B.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=7UK-g31YqCcCD6ZjS7ZbyQ"
+                }
+            },
+            {
+                "id": "wMEk5pW2sKLQ2GrjPmEJLQ",
+                "rating": 3,
+                "text": "Let's call this a temporary, placeholder review because I want to give it a fair shot by trying its tacos, but I also want a medium to express my...",
+                "time_created": "2022-12-05 14:01:20",
+                "url": "https://www.yelp.com/biz/the-taco-stand-orange?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=wMEk5pW2sKLQ2GrjPmEJLQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "ryuNhfE5m8Q-nkms9ENZtQ",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/rfis2fQxwNpACW96OlYjSw/o.jpg",
+                    "name": "Natalie F.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=ryuNhfE5m8Q-nkms9ENZtQ"
+                }
+            }
+        ],
+        "total": 719
+    },
+    "tO62ZHOAFuMR5pl-fimJLg": {
+        "possible_languages": [
+            "en",
+            "es"
+        ],
+        "reviews": [
+            {
+                "id": "pAYRNphxAiNpcXThGLuxUQ",
+                "rating": 5,
+                "text": "We sampled several items and agree. This is the #1 taco spot!  Highly recommend. Everything was excellent!!",
+                "time_created": "2022-11-12 18:16:52",
+                "url": "https://www.yelp.com/biz/taqueria-el-zamorano-santa-ana?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=pAYRNphxAiNpcXThGLuxUQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "IdUWYAKy9cIQL1f786h4aQ",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/Pn8cBNTgHma0T8mSEULGrQ/o.jpg",
+                    "name": "Beth J.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=IdUWYAKy9cIQL1f786h4aQ"
+                }
+            },
+            {
+                "id": "i00jWB9xxryE1F-xO58IoA",
+                "rating": 5,
+                "text": "You WON'T be disappointed by a visit here. Unlike some places, Taqueria El Zamorano most definitely ISN'T overrated. \nWe've been several times now and love...",
+                "time_created": "2022-12-04 19:20:31",
+                "url": "https://www.yelp.com/biz/taqueria-el-zamorano-santa-ana?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=i00jWB9xxryE1F-xO58IoA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "ug0rcheH6Qzws7oGSnOAiA",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/yI3RAZydrNUQPpliTQam2w/o.jpg",
+                    "name": "Parker G.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=ug0rcheH6Qzws7oGSnOAiA"
+                }
+            },
+            {
+                "id": "UHUInVPpFeFo30SFUz-ypA",
+                "rating": 3,
+                "text": "5 stars for food, but gotta drop it to 3.5 for now cause service was less than just mediocre.\n\nThe food is fresh, and the crowd you see daily here speaks to...",
+                "time_created": "2022-12-01 01:16:15",
+                "url": "https://www.yelp.com/biz/taqueria-el-zamorano-santa-ana?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=UHUInVPpFeFo30SFUz-ypA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "i3vl5hdpZE4ESDjQp-9Tog",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/lKxwenCn-I2PjxkrHe1Thg/o.jpg",
+                    "name": "Nghi Y.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=i3vl5hdpZE4ESDjQp-9Tog"
+                }
+            }
+        ],
+        "total": 1538
+    },
+    "yQTCIW30CvtfeUd_Oh5W7g": {
+        "possible_languages": [
+            "en",
+            "es"
+        ],
+        "reviews": [
+            {
+                "id": "waaOJLBRfqu6GiK24l83qQ",
+                "rating": 5,
+                "text": "I've been coming here since they opened and was excited to learn they now serve breakfast on the weekends. \n\nMy husband and I tired all the breakfast items....",
+                "time_created": "2022-12-11 07:14:46",
+                "url": "https://www.yelp.com/biz/taco-chico-tustin?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=waaOJLBRfqu6GiK24l83qQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "umDbL7iyM9iXhtaw6ztpLw",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/5C3bCFn5ns1Pj7iM79AQCw/o.jpg",
+                    "name": "Monnica G.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=umDbL7iyM9iXhtaw6ztpLw"
+                }
+            },
+            {
+                "id": "HKJtrXSW9JNAD2hGNLAZPA",
+                "rating": 5,
+                "text": "Omg seriously \nThis place is so perfect I need to be there once week. Not only are the tacos amazing \nThey have good rice and beans it's so hard to find a...",
+                "time_created": "2022-12-04 21:24:21",
+                "url": "https://www.yelp.com/biz/taco-chico-tustin?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=HKJtrXSW9JNAD2hGNLAZPA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "EwWXTynIpAW-fTOVWG4QtA",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/IgJ8tbes7LssmuY2A6T4vw/o.jpg",
+                    "name": "Julia R.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=EwWXTynIpAW-fTOVWG4QtA"
+                }
+            },
+            {
+                "id": "yIQoh1q92aeEwhNxc3XVJw",
+                "rating": 5,
+                "text": "Most people wouldn't drive 10 miles for tacos when there are taco trucks and restaurants much closer, but their photos on their Instagram account got to me....",
+                "time_created": "2022-11-28 13:28:58",
+                "url": "https://www.yelp.com/biz/taco-chico-tustin?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=yIQoh1q92aeEwhNxc3XVJw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "Cc0jm1pvWPMOhHNpKWw0VQ",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/hpkFdOqucm_j7ZaRQdr1Aw/o.jpg",
+                    "name": "Bryan L.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=Cc0jm1pvWPMOhHNpKWw0VQ"
+                }
+            }
+        ],
+        "total": 139
+    }
+}
