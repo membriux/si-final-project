@@ -9,7 +9,7 @@ Type inputs for the food item and location you want to search and the app will r
 
 ## Video Walkthrough/Example
 
-![Walkthrough](/walkthrough.gif)
+![Walkthrough](walkthrough.gif)
 
 ## Built With
 
@@ -18,32 +18,3 @@ Type inputs for the food item and location you want to search and the app will r
 * [Pygal](https://www.pygal.org/en/stable/) - "Sexy" Python Charting
 * [TextBlob](https://textblob.readthedocs.io/en/dev/) - Text processing/Sentiment Analysis
 
-## Authors
-
-* **Guillermo Sanchez** - [Membriux](https://github.com/membriux)
-    - Initial deign/planning/prototyping
-    - MVC Architecture design + implementation
-    - Flask framework implementation
-    - Data Analysis + Charting with Pygal
-    - TextBlob implementation
-* **Josh Tavassolikhah** - [JoshTavasso](https://github.com/JoshTavasso)
-    - Initial design/planning/prototyping
-    - Yelp API Implementation
-    - Created Data Models: Business and Reviews class
-
-
-## License
-
-    Copyright 2019 Guillermo Sanchez
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
