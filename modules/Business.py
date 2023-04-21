@@ -18,9 +18,6 @@ from modules.Review import Review
 # the API KEY needed for getting data from Yelp
 import os
 
-# for testing purposes
-import pprint
-
 # Used when retreiving data from Yelp
 HEADERS = {'Authorization': 'bearer {}'.format(os.getenv('API_KEY'))}
 
@@ -36,8 +33,6 @@ ALL_REVIEWS = {}
 LIMIT = 9
 RADIUS = 35000
 
-# pprint for testing purposes
-pp = pprint.PrettyPrinter()
 
 class GatherBusinesses:
     """
@@ -70,8 +65,7 @@ class GatherBusinesses:
         get user input for term and location
         """
 
-        return {'term': self.term, 'limit': LIMIT,
-        'radius': RADIUS, 'location': self.location}
+        return {'term': self.term, 'limit': LIMIT, 'radius': RADIUS, 'location': self.location}
 
     def _get_business_data(self, params: dict) -> dict:
         """
@@ -80,9 +74,10 @@ class GatherBusinesses:
         and location
         """
         endpoint = 'https://api.yelp.com/v3/businesses/search'
-        response = requests.get(url = endpoint, params = params, headers = HEADERS)
+        response = requests.get(url=endpoint, params=params, headers=HEADERS)
         data = response.json()['businesses']
         return data
+
 
 class Business:
     def __init__(self, business_dict):
@@ -94,8 +89,11 @@ class Business:
         self.review_count = business_dict['review_count']
         self.rating = business_dict['rating']
 
-         # a list of Review objects
-        self.reviews = self._get_reviews()
+        # a list of Review objects
+        if 'reviews' not in business_dict:
+            self.reviews = self._get_reviews()
+        else:
+            self.reviews = [Review(r) for r in business_dict['reviews']]
 
         # Sentiment score is calculated using all of the reviews
         # for this business and get the the feeling based on the score
@@ -158,7 +156,7 @@ class Business:
         global ALL_REVIEWS
         with open('review.json', 'w') as j_file:
             endpoint = 'https://api.yelp.com/v3/businesses/{}/reviews'.format(self.id)
-            response = requests.get(url = endpoint, headers = HEADERS)
+            response = requests.get(url=endpoint, headers=HEADERS)
             ALL_REVIEWS[self.id] = response.json()
             json.dump(ALL_REVIEWS, j_file, sort_keys=True, indent=4)
 
@@ -189,14 +187,3 @@ class Business:
             return 'Somewhat positive'
         elif 0.50 <= score:
             return 'Positive'
-
-
-
-
-
-
-
-
-
-
-print()

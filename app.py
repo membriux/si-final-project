@@ -1,23 +1,21 @@
-from flask import Flask, url_for, render_template, request, session
+import os
+import json
+from flask import Flask, render_template, request, session
 from modules.Business import GatherBusinesses, Business
 from modules.Graphs import Graph
-import pygal
-import json
-import os
 
 
 app = Flask(__name__)
 app.secret_key = os.urandom(24)
 
-BUSINESSES = []
 SEARCH = {'term': None, 'location': None}
+BUSINESSES = []
 GRAPHS = None
+LOAD_FROM_CACHE = False
+CACHE_FILE = 'cache.json'
+CACHE = {}
 
-"""
-Before each request from the web,
-we check if the user is in session so that
-it gets it's personal unique search.
-"""
+
 @app.before_request
 def setup():
     global BUSINESSES, SEARCH
@@ -25,14 +23,9 @@ def setup():
         SEARCH = {}
 
 
-"""
-Main page. It returns a page with two fields
-that the user must give input (food term and location).
-Once the user submits a search the program returns
-all the results about the search
-"""
 @app.route('/', methods=['GET', 'POST'])
 def index():
+    global BUSINESSES, CACHE
     # Store session of user
     session['user'] = 'user'
 
@@ -46,57 +39,62 @@ def index():
         # Get businesses
         analyze_businesses()
 
-
     if BUSINESSES != [] and SEARCH != {}:
         top = get_top()
         return render_template('index.html', search=True,
-                                topsent=top[0],
-                                toprating=top[1],
-                                businesses=BUSINESSES,
-                                rchart=GRAPHS.rating_bar,
-                                schart=GRAPHS.sentiment_bar,
-                                srchart=GRAPHS.comparison_bar,
-                                location=SEARCH['location'], term=SEARCH['term'])
+                               topsent=top[0],
+                               toprating=top[1],
+                               businesses=BUSINESSES,
+                               rchart=GRAPHS.rating_bar,
+                               schart=GRAPHS.sentiment_bar,
+                               srchart=GRAPHS.comparison_bar,
+                               location=SEARCH['location'], term=SEARCH['term'],
+                               cache=LOAD_FROM_CACHE)
     else:
         return render_template('index.html')
 
 
-"""
-View specific reviews made by customers
-along with the rating and the sentiment_score
-that was calculated.
-"""
 @app.route('/reviews/<bid>')
 def business(bid):
     print('\n\nBusinesses:', BUSINESSES)
     for b in BUSINESSES:
         if bid == b.id:
             return render_template('routing/business.html',
-                                    business=b)
-"""
-About Page
-"""
-@app.route('/about')
-def about():
-    return render_template('about.html')
+                                   business=b)
 
 
-"""
-Get businesses from Yelp API and create
-graphs using the data collected.
-"""
 def analyze_businesses():
-    global BUSINESSES
+    global BUSINESSES, LOAD_FROM_CACHE
     term, location = SEARCH['term'], SEARCH['location']
-    b = GatherBusinesses(term, location)
-    BUSINESSES = b.business_list
-    get_graphs()
+    cache_key = f'{term.lower()}+{location.lower()}'
 
-"""
-Get the top business based on ratings
-and the top business based on sentiment_score.
-"""
+    if cache_key in CACHE:
+        BUSINESSES = load_businesses_from_cache(cache_key)
+        LOAD_FROM_CACHE = True
+    else:
+        businesses = GatherBusinesses(term, location)
+        save_to_cache(cache_key, businesses.business_list)
+        BUSINESSES = load_businesses_from_cache(cache_key)
+        LOAD_FROM_CACHE = False
+
+    get_charts(BUSINESSES)
+
+
+def save_to_cache(cache_key, businesses):
+    global CACHE
+    CACHE[cache_key] = businesses
+    for key, bs in CACHE.items():
+        for i in range(len(bs)):
+            business = bs[i]
+            if isinstance(business, Business):
+                business.reviews = [r.__dict__ for r in business.reviews]
+                bs[i] = business.__dict__
+    with open(CACHE_FILE, 'w') as f:
+        json.dump(CACHE, f, indent=4)
+
+
 def get_top():
+    global BUSINESSES
     tops, topr = None, None
     s, r = 0, 0
     for b in BUSINESSES:
@@ -108,15 +106,35 @@ def get_top():
             topr = b
     return [tops, topr]
 
-"""
-Use the Graph class to construct the three
-graphs: sentiment_score graph, rating graph,
-and the comparsion graph.
-"""
-def get_graphs():
+
+def get_charts(businesses):
     global GRAPHS
-    GRAPHS = Graph(BUSINESSES)
+    GRAPHS = Graph(businesses)
+
+
+def load_businesses_from_cache(cache_key):
+    global CACHE
+    businesses = CACHE[cache_key]
+    for i in range(len(businesses)):
+        business = businesses[i]
+        if isinstance(business, dict):
+            businesses[i] = Business(business)
+    return businesses
+
+
+def load_cache():
+    global CACHE
+    try:
+        with open(CACHE_FILE, 'r') as f:
+            cache_data = f.read()
+            if not cache_data:
+                CACHE = {}
+            else:
+                CACHE = json.loads(cache_data)
+    except FileNotFoundError:
+        CACHE = {}
 
 
 if __name__ == '__main__':
+    load_cache()
     app.run(debug=True)

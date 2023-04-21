@@ -47,6 +47,150 @@
         ],
         "total": 2178
     },
+    "-h9tPzhgDVYbc1dF2dsKQw": {
+        "possible_languages": [
+            "en",
+            "ja"
+        ],
+        "reviews": [
+            {
+                "id": "_ai71BQ5Y2IRY800ckH9hA",
+                "rating": 4,
+                "text": "We were seated promptly on a busy Friday night and our server was super informative and helpful for our indecisive table!! We sat out back in the covered...",
+                "time_created": "2022-10-28 19:19:09",
+                "url": "https://www.yelp.com/biz/bigalora-wood-fired-cucina-ann-arbor?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=_ai71BQ5Y2IRY800ckH9hA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "I4Q_eWu8iQmJnhI1-LKIUg",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/S-fJpVc-xAhclknyV3nw-A/o.jpg",
+                    "name": "Elizabeth S.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=I4Q_eWu8iQmJnhI1-LKIUg"
+                }
+            },
+            {
+                "id": "3qR0D_PYw0D7-FcfJdaaEQ",
+                "rating": 3,
+                "text": "We returned here because of previous positive experiences. They don't always get things wrong but when they do, it's one thing after another. Would we...",
+                "time_created": "2022-10-04 06:56:18",
+                "url": "https://www.yelp.com/biz/bigalora-wood-fired-cucina-ann-arbor?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=3qR0D_PYw0D7-FcfJdaaEQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "8QzSs8W34_PMvIuvvXxKKg",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/ptvf1k652T8yBiMdTQaJfA/o.jpg",
+                    "name": "Jill H.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=8QzSs8W34_PMvIuvvXxKKg"
+                }
+            },
+            {
+                "id": "oXttVU3mdZijeDdcP6LktA",
+                "rating": 5,
+                "text": "I returned with my girl after another grueling workout for the best comfort food. We sat in the winter patio area, which was well heated. We indulged in:...",
+                "time_created": "2023-01-27 14:54:54",
+                "url": "https://www.yelp.com/biz/bigalora-wood-fired-cucina-ann-arbor?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=oXttVU3mdZijeDdcP6LktA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "oCJ0Jan_YWYSJBCx1OH7yw",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/HyaMOGmyt2Z9p-shVHmIYA/o.jpg",
+                    "name": "Radhika R.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=oCJ0Jan_YWYSJBCx1OH7yw"
+                }
+            }
+        ],
+        "total": 405
+    },
+    "-h_zeuiMCWWkSIAyhw25EA": {
+        "possible_languages": [
+            "en"
+        ],
+        "reviews": [
+            {
+                "id": "yzBze-ihwZMP-6MF8ojsgA",
+                "rating": 5,
+                "text": "It's just so good. 25 minute pick up for a flatbread and small stuffed pizza. The pesto flatbread is incredible, if you're on the fence - do it. It could...",
+                "time_created": "2022-12-30 17:42:41",
+                "url": "https://www.yelp.com/biz/anthonys-gourmet-pizza-ann-arbor-3?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=yzBze-ihwZMP-6MF8ojsgA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "J6gmSBXYGanGZCEvrYl9-g",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/v5MKS87AB97-7GldIX2SsQ/o.jpg",
+                    "name": "Erin P.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=J6gmSBXYGanGZCEvrYl9-g"
+                }
+            },
+            {
+                "id": "dafJTx47Fsm9TRoo4r1dww",
+                "rating": 2,
+                "text": "The appearance of my Chicago style pizza from Anthony's appeared as advertised. But after biting into this pizza, I soon realized that my pizza was at a...",
+                "time_created": "2022-12-20 07:31:49",
+                "url": "https://www.yelp.com/biz/anthonys-gourmet-pizza-ann-arbor-3?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=dafJTx47Fsm9TRoo4r1dww&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "qQXMuwhJ4fes-388RhFF2Q",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/l8CZxB55Rgc6xz2AkaRkgw/o.jpg",
+                    "name": "Al W.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=qQXMuwhJ4fes-388RhFF2Q"
+                }
+            },
+            {
+                "id": "cq6ARP1wKXvPcp6k1oDkfg",
+                "rating": 3,
+                "text": "Pizza was good, but having a hard time looking past the chef openly and avidly reading the Alex Jones biography right there in the restaurant, especially...",
+                "time_created": "2022-11-20 07:10:56",
+                "url": "https://www.yelp.com/biz/anthonys-gourmet-pizza-ann-arbor-3?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=cq6ARP1wKXvPcp6k1oDkfg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "edMNoY_w5AgUt-8doHNj-A",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/EPJaAaLfl0FLckIbG9HpLA/o.jpg",
+                    "name": "Bob S.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=edMNoY_w5AgUt-8doHNj-A"
+                }
+            }
+        ],
+        "total": 103
+    },
+    "06lBpQZ3Ye9w7zL8j_tFPw": {
+        "possible_languages": [
+            "en",
+            "es",
+            "ja"
+        ],
+        "reviews": [
+            {
+                "id": "1YU1ETeMSG2Q_W84f5ukwg",
+                "rating": 5,
+                "text": "Smokey goodness taste of the carne asado was wonderful!  Had to go back for lunch the next day.  That's two days in a row at the same place, I cannot...",
+                "time_created": "2023-02-25 18:16:55",
+                "url": "https://www.yelp.com/biz/tacos-el-gordo-chula-vista-6?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=1YU1ETeMSG2Q_W84f5ukwg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "Jbej9RIHan1noPCUk6Nssw",
+                    "image_url": null,
+                    "name": "Marc A.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=Jbej9RIHan1noPCUk6Nssw"
+                }
+            },
+            {
+                "id": "UvwFpSyrp7XY2F5Tn3vQtg",
+                "rating": 5,
+                "text": "Would move back to California just for these tacos alone, never been to the Las Vegas location but I'm sure it's great as well. Please expand to Texas",
+                "time_created": "2023-02-17 18:06:11",
+                "url": "https://www.yelp.com/biz/tacos-el-gordo-chula-vista-6?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=UvwFpSyrp7XY2F5Tn3vQtg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "lUFPgoP8ID7nBcX2M90OUA",
+                    "image_url": null,
+                    "name": "Ruby A.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=lUFPgoP8ID7nBcX2M90OUA"
+                }
+            },
+            {
+                "id": "qsk8ue9qfZGR8LlotRj4rw",
+                "rating": 5,
+                "text": "One of my favorite places for Mexican food! Tacos el Gordo is an authentic taco shop that originated in Tijuana. \nThe parking lot is small, you'll...",
+                "time_created": "2023-04-03 14:56:29",
+                "url": "https://www.yelp.com/biz/tacos-el-gordo-chula-vista-6?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=qsk8ue9qfZGR8LlotRj4rw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "s5qFjJR9wre2EQXf5Ysttg",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/CUCLhsSi6vVpoUN2Nj_3gg/o.jpg",
+                    "name": "Rebekah H.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=s5qFjJR9wre2EQXf5Ysttg"
+                }
+            }
+        ],
+        "total": 6243
+    },
     "17G67GkODedOfTM5QTGCwQ": {
         "possible_languages": [
             "en",
@@ -144,6 +288,102 @@
         ],
         "total": 1671
     },
+    "2sT_QypID8fH2nbnvNeFoQ": {
+        "possible_languages": [
+            "en",
+            "es",
+            "tr"
+        ],
+        "reviews": [
+            {
+                "id": "XtHvmlK-xB6XsKsWRcZDEw",
+                "rating": 5,
+                "text": "I love Mexican food and when I get it I almost exclusively only eat at tacos trucks or taquerias in the cuts. It is rare I venture out to a more \"upscale\"...",
+                "time_created": "2023-04-04 16:24:11",
+                "url": "https://www.yelp.com/biz/el-halal-amigos-san-jose-3?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=XtHvmlK-xB6XsKsWRcZDEw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "N4zoDGMcxDF1kCRqhW69gQ",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/JQ_xZRmzx5iNYfVdSRlrTw/o.jpg",
+                    "name": "Jordan H.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=N4zoDGMcxDF1kCRqhW69gQ"
+                }
+            },
+            {
+                "id": "NIXP6QkxD5EhCTfXYXcimA",
+                "rating": 5,
+                "text": "Great experience! My friends and I came here for our Thursday night dinners after seeing all the hype online. We were a group of six people so I was glad to...",
+                "time_created": "2023-03-21 17:10:08",
+                "url": "https://www.yelp.com/biz/el-halal-amigos-san-jose-3?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=NIXP6QkxD5EhCTfXYXcimA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "D-yGVfdFKhDsgXZXBnygGA",
+                    "image_url": "https://s3-media4.fl.yelpcdn.com/photo/q9U0fZnYf10BUy36XZLGeg/o.jpg",
+                    "name": "Evangelina B.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=D-yGVfdFKhDsgXZXBnygGA"
+                }
+            },
+            {
+                "id": "67bxuZg4zPrJk1MTkTiHcw",
+                "rating": 5,
+                "text": "Wanted to try this place and since I got my tax refund, I did Uber eat. Ooo taco was delicious, meat was so tender. I also got burrito and quesadillas too...",
+                "time_created": "2023-02-28 19:10:29",
+                "url": "https://www.yelp.com/biz/el-halal-amigos-san-jose-3?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=67bxuZg4zPrJk1MTkTiHcw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "YDQh6rfCMiomNxWi8XaaMw",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/3KORUtJfkAE6tsj7DJuHcQ/o.jpg",
+                    "name": "Hein O.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=YDQh6rfCMiomNxWi8XaaMw"
+                }
+            }
+        ],
+        "total": 398
+    },
+    "3T0DimQdBFcaqfDzOvnSBg": {
+        "possible_languages": [
+            "en"
+        ],
+        "reviews": [
+            {
+                "id": "UugnFgkRRnvZoyfXXG1mBg",
+                "rating": 4,
+                "text": "Never had a Detroit pizza before? I hadn't either but I knew I couldn't be in Detroit and never try it. So, my hubby and I made sure we visited Buddy's. We...",
+                "time_created": "2022-12-01 19:28:19",
+                "url": "https://www.yelp.com/biz/buddys-pizza-ann-arbor-ann-arbor-2?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=UugnFgkRRnvZoyfXXG1mBg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "F1iqe4P-wgJ2zBHgZqtXUA",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/ii1yfkMySZh96zEctcZqPQ/o.jpg",
+                    "name": "Lisa D.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=F1iqe4P-wgJ2zBHgZqtXUA"
+                }
+            },
+            {
+                "id": "RGIre4LG5Ncy0xvRkQ06kw",
+                "rating": 1,
+                "text": "We waited an entire hour for a table. We watched them send many people away when they stopped taking names and customers at 6:20, supposedly because some of...",
+                "time_created": "2022-12-29 22:14:12",
+                "url": "https://www.yelp.com/biz/buddys-pizza-ann-arbor-ann-arbor-2?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=RGIre4LG5Ncy0xvRkQ06kw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "M8l9El0FkhlbNbTj17C0nA",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/_NSUoSqjQ6mAPR7-a1tB-Q/o.jpg",
+                    "name": "Aileen B.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=M8l9El0FkhlbNbTj17C0nA"
+                }
+            },
+            {
+                "id": "Z0xjPrPNX-tjxyyxEJYVVA",
+                "rating": 5,
+                "text": "I've been looking for great pizza in A2 since we moved here (via Chicago/Honolulu/LA) two years ago. Given our previous haunts, it has been hard to find...",
+                "time_created": "2022-11-22 18:53:35",
+                "url": "https://www.yelp.com/biz/buddys-pizza-ann-arbor-ann-arbor-2?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=Z0xjPrPNX-tjxyyxEJYVVA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "x2hkxPQadmfGRkikDMo28g",
+                    "image_url": "https://s3-media4.fl.yelpcdn.com/photo/U6TAxn9CJcjYuRZddS1xXQ/o.jpg",
+                    "name": "Christopher H.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=x2hkxPQadmfGRkikDMo28g"
+                }
+            }
+        ],
+        "total": 206
+    },
     "4P2iknlrn4T730fXOuHRug": {
         "possible_languages": [
             "en"
@@ -190,6 +430,291 @@
             }
         ],
         "total": 83
+    },
+    "4bYTkiWkI6sCJL2DfokaXw": {
+        "possible_languages": [
+            "en",
+            "es"
+        ],
+        "reviews": [
+            {
+                "id": "oahRWse-v9KUAKoCe4BVcQ",
+                "rating": 5,
+                "text": "Staff is helpful and friendly.food is delicious and large portions..over all this place is great! Large and spacious with family ambiance..",
+                "time_created": "2023-02-18 09:43:23",
+                "url": "https://www.yelp.com/biz/el-paisa-oakland-2?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=oahRWse-v9KUAKoCe4BVcQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "fiW6txDl4Nwlg7YtlzD-WA",
+                    "image_url": null,
+                    "name": "Janet C.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=fiW6txDl4Nwlg7YtlzD-WA"
+                }
+            },
+            {
+                "id": "VwbXdr-dhIXY7mhRFJsrug",
+                "rating": 5,
+                "text": "Came here on a Saturday around 1 pm with friends and it was packed! They have a small parking lot which fills up quickly, but there is a lot of street...",
+                "time_created": "2023-02-14 17:20:13",
+                "url": "https://www.yelp.com/biz/el-paisa-oakland-2?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=VwbXdr-dhIXY7mhRFJsrug&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "JaLmcaXy-TcOE4ATqJVs-g",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/vUmZCyxNsw00bQwE8--vPA/o.jpg",
+                    "name": "Mark H.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=JaLmcaXy-TcOE4ATqJVs-g"
+                }
+            },
+            {
+                "id": "Xk55lfxUb7zbnCJf_7uhZw",
+                "rating": 4,
+                "text": "This place is located in the not so great neighborhood but it has fence and gate for their parking lot, it was full so I had to park down the little street...",
+                "time_created": "2023-03-09 13:55:09",
+                "url": "https://www.yelp.com/biz/el-paisa-oakland-2?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=Xk55lfxUb7zbnCJf_7uhZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "z0H4rNjKQ_l72zJ2sDWnqQ",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/qIseJsYK__PJ9S2TAzXjGw/o.jpg",
+                    "name": "Mack T.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=z0H4rNjKQ_l72zJ2sDWnqQ"
+                }
+            }
+        ],
+        "total": 388
+    },
+    "5DnHLVOeSWYqKUJbI-bFSw": {
+        "possible_languages": [
+            "en",
+            "es"
+        ],
+        "reviews": [
+            {
+                "id": "8wIAdDdi_UHVAYjPrmkVXg",
+                "rating": 5,
+                "text": "The tacos are best, the service is top tier. The food is very delicious and savory.Definitely coming back!!",
+                "time_created": "2023-03-14 16:36:36",
+                "url": "https://www.yelp.com/biz/tacos-el-noa-noa-sunnyvale?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=8wIAdDdi_UHVAYjPrmkVXg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "SAHi1O35hiFP11wj84szNg",
+                    "image_url": null,
+                    "name": "Christopher V.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=SAHi1O35hiFP11wj84szNg"
+                }
+            },
+            {
+                "id": "IJMGPuo6s0mSC7Naj9w5Nw",
+                "rating": 5,
+                "text": "Best QUESABIRRIA's in Sunnyvale! Carlos also makes it customized if you want. Amazing food!",
+                "time_created": "2023-03-08 13:54:50",
+                "url": "https://www.yelp.com/biz/tacos-el-noa-noa-sunnyvale?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=IJMGPuo6s0mSC7Naj9w5Nw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "Rrs_oclXFnetF7JAFxsK3Q",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/H2NTBYOj4hj5ll8ZncwGGA/o.jpg",
+                    "name": "Gaurav S.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=Rrs_oclXFnetF7JAFxsK3Q"
+                }
+            },
+            {
+                "id": "89FP50_J2qg_BkNCKG9XQw",
+                "rating": 5,
+                "text": "Excellent. They are now one of my favorite food in the South Bay. The Birria tacos 'which definitely is their main star dish' are absolutely excellent;...",
+                "time_created": "2023-02-08 20:30:45",
+                "url": "https://www.yelp.com/biz/tacos-el-noa-noa-sunnyvale?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=89FP50_J2qg_BkNCKG9XQw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "KgyfprMu7idC1Y7eSHmaUg",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/mb1Uz6Sqc5ps5zZcK3JTEw/o.jpg",
+                    "name": "Riwaj B.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=KgyfprMu7idC1Y7eSHmaUg"
+                }
+            }
+        ],
+        "total": 324
+    },
+    "7sAcXreoQqyLdMnNPcr5hA": {
+        "possible_languages": [
+            "en"
+        ],
+        "reviews": [
+            {
+                "id": "ew1eDZWuxgIUlmoPFhZIEA",
+                "rating": 4,
+                "text": "Food, beer choices, and service was excellent.  Michigan decor all around the restaurant.",
+                "time_created": "2023-02-26 08:15:34",
+                "url": "https://www.yelp.com/biz/pizza-house-ann-arbor?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=ew1eDZWuxgIUlmoPFhZIEA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "xzUJD7GygUMlo4zf6gLyTw",
+                    "image_url": null,
+                    "name": "Matt D.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=xzUJD7GygUMlo4zf6gLyTw"
+                }
+            },
+            {
+                "id": "C4QfQ9ieOTdOm8Nz0tfVQg",
+                "rating": 4,
+                "text": "Decent pizza, ok service, cute place but $ for what you get IMO. My friend was visiting from out of state and she had a hankering for this place. If I had...",
+                "time_created": "2023-01-07 19:17:56",
+                "url": "https://www.yelp.com/biz/pizza-house-ann-arbor?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=C4QfQ9ieOTdOm8Nz0tfVQg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "D0TI8RcZnXTmi-aRB3va7g",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/CCS0QcANvNjBgG3mEVgTrw/o.jpg",
+                    "name": "Jean M.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=D0TI8RcZnXTmi-aRB3va7g"
+                }
+            },
+            {
+                "id": "tFfQYTCShQnCmkAfWpV6Uw",
+                "rating": 4,
+                "text": "Wow - I went to Pizza House after the Michigan vs Michigan State game (Go Blue!) on Halloween weekend, and Pizza House was LIT.  \n\nThe lines were...",
+                "time_created": "2022-11-01 09:22:15",
+                "url": "https://www.yelp.com/biz/pizza-house-ann-arbor?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=tFfQYTCShQnCmkAfWpV6Uw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "1xAFrmvMCeeI9fpwBnqbug",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/Verbv64PWMNS4La0PWDZOg/o.jpg",
+                    "name": "Rusty P.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=1xAFrmvMCeeI9fpwBnqbug"
+                }
+            }
+        ],
+        "total": 502
+    },
+    "8nKu9TATiJyjhYvijD7vIw": {
+        "possible_languages": [
+            "en",
+            "es"
+        ],
+        "reviews": [
+            {
+                "id": "dULcsHW42dgFHljlEPeYVw",
+                "rating": 5,
+                "text": "YUMMMMMMMMMM. If you like tacos then check this place out. I got it delivered for lunch and it was so good. Prices are decent and menu has lots of options.",
+                "time_created": "2023-02-26 16:24:02",
+                "url": "https://www.yelp.com/biz/tmaz-taqueria-ann-arbor?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=dULcsHW42dgFHljlEPeYVw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "KOxyPT5yQOeASMahpuimAA",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/AxDp9875JWQ9UuFqsZ1MDg/o.jpg",
+                    "name": "Mallory R.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=KOxyPT5yQOeASMahpuimAA"
+                }
+            },
+            {
+                "id": "ve288ubj4CnzbHmRZ3kYAw",
+                "rating": 5,
+                "text": "Pleased as punch with this place! Tried one of each type of tamale and was left wanting more. This is the real deal, fair pricing, quick service, and super...",
+                "time_created": "2023-01-28 12:58:49",
+                "url": "https://www.yelp.com/biz/tmaz-taqueria-ann-arbor?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=ve288ubj4CnzbHmRZ3kYAw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "Lhh5wPItMxz3xvo_IGi9-A",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/iPKeSMDfJZuJPwwzA_DJYw/o.jpg",
+                    "name": "Kim K.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=Lhh5wPItMxz3xvo_IGi9-A"
+                }
+            },
+            {
+                "id": "HQcwMuFY_G_iufwH3AdQvA",
+                "rating": 2,
+                "text": "Needs to do some more work on their prices. They are pretty high now and it's just not worth it for each taco to be so pricey...",
+                "time_created": "2023-02-25 11:13:31",
+                "url": "https://www.yelp.com/biz/tmaz-taqueria-ann-arbor?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=HQcwMuFY_G_iufwH3AdQvA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "9WbJ-5rqaSrWUDXc6rmfMA",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/dTEbstLXCo4vqhFl5tl5eg/o.jpg",
+                    "name": "Dennis K.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=9WbJ-5rqaSrWUDXc6rmfMA"
+                }
+            }
+        ],
+        "total": 449
+    },
+    "B4FlijquIen3_b6phzs40A": {
+        "possible_languages": [
+            "en"
+        ],
+        "reviews": [
+            {
+                "id": "M7zfdngOrKKr69HRrFYoKA",
+                "rating": 5,
+                "text": "Chicken Shawarma Pizza was so good! Definitely going back! Crust was phenomenal, normally skip it, but when it's that good, I just couldn't!",
+                "time_created": "2023-02-05 16:12:48",
+                "url": "https://www.yelp.com/biz/yayas-pizza-ypsilanti?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=M7zfdngOrKKr69HRrFYoKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "kZB4KVU5_BnfLHGY4muZrQ",
+                    "image_url": null,
+                    "name": "Gabrielle B.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=kZB4KVU5_BnfLHGY4muZrQ"
+                }
+            },
+            {
+                "id": "By3kK4Z8EETy9TDL-Wj8kA",
+                "rating": 5,
+                "text": "This is hands-down one of the best Halal pizzas, if not the best Halal pizza that I have had. After living in New York City, Connecticut, and Chicago, I...",
+                "time_created": "2023-02-17 11:36:42",
+                "url": "https://www.yelp.com/biz/yayas-pizza-ypsilanti?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=By3kK4Z8EETy9TDL-Wj8kA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "MnS3kgGTnEra0qmpl9_o2g",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/1hfHDLrSu7UiyY-b86kfvA/o.jpg",
+                    "name": "Humza M.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=MnS3kgGTnEra0qmpl9_o2g"
+                }
+            },
+            {
+                "id": "WAdUboDic5EUtFbrxjuIlg",
+                "rating": 5,
+                "text": "Wow! The #1 recommendation is to get the chicken shawarma pizza. \nIt was delicious. It was full of flavor. It was so good.\nWe went to get this pizza...",
+                "time_created": "2023-02-09 15:02:27",
+                "url": "https://www.yelp.com/biz/yayas-pizza-ypsilanti?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=WAdUboDic5EUtFbrxjuIlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "f0oqeQKMPw_sZGgfO063tw",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/AGimlTd-mhCl9G4a9NRdfQ/o.jpg",
+                    "name": "Tommy V.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=f0oqeQKMPw_sZGgfO063tw"
+                }
+            }
+        ],
+        "total": 28
+    },
+    "C8IeolsUWU0MWFY0aCEdRg": {
+        "possible_languages": [
+            "en"
+        ],
+        "reviews": [
+            {
+                "id": "Og5_DPz0fvFZ7l8g2uFAqw",
+                "rating": 5,
+                "text": "Such a great restaurant! We tried every taco, the fries, and the chips and salsa -- all were delicious! Aaron, the owner, was incredibly kind and helpful....",
+                "time_created": "2023-01-08 11:21:21",
+                "url": "https://www.yelp.com/biz/1923-ann-arbor?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=Og5_DPz0fvFZ7l8g2uFAqw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "g3XqIiYZLeZsJebn-rKNFQ",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/Oj95RXT7_cMWtp2-824_Gg/o.jpg",
+                    "name": "Jillian C.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=g3XqIiYZLeZsJebn-rKNFQ"
+                }
+            },
+            {
+                "id": "ZJXeC-KXqbp8l6FW7n18AA",
+                "rating": 5,
+                "text": "So glad that we ended up trying this place. We recently moved back to Ann Arbor, this time with the knowledge that my partner has Celiac disease. My partner...",
+                "time_created": "2023-01-08 09:51:06",
+                "url": "https://www.yelp.com/biz/1923-ann-arbor?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=ZJXeC-KXqbp8l6FW7n18AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "uMtLPw2fJukAbrXCv9gAbA",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/vNYThriRcKvOqooqpfCbBQ/o.jpg",
+                    "name": "Ben M.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=uMtLPw2fJukAbrXCv9gAbA"
+                }
+            },
+            {
+                "id": "DXpJtwvl2LEr51yAfnP_1g",
+                "rating": 5,
+                "text": "Really cool concept, and great for a sunny day. Tacos and food was great. Loved that it's gluten free so we could just pick what we wanted and not have to...",
+                "time_created": "2022-11-02 10:31:13",
+                "url": "https://www.yelp.com/biz/1923-ann-arbor?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=DXpJtwvl2LEr51yAfnP_1g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "wKEh4sBOJDuvN1MC_FFAzA",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/a5rQwOFgkBClJ9Rp6b0QsA/o.jpg",
+                    "name": "Jacob G.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=wKEh4sBOJDuvN1MC_FFAzA"
+                }
+            }
+        ],
+        "total": 6
     },
     "C8v4EbIMwP33qz51LP4l6Q": {
         "possible_languages": [
@@ -239,6 +764,574 @@
         ],
         "total": 1767
     },
+    "CWb2lApN-MvcmzdPp_9jpA": {
+        "possible_languages": [
+            "en"
+        ],
+        "reviews": [
+            {
+                "id": "o4UUPjvhDn-NL9WikMyMEg",
+                "rating": 5,
+                "text": "Great service and quality food. Had the tacos and reminded me of back home! You can tell a lot of love goes in the food and service",
+                "time_created": "2023-03-13 14:25:18",
+                "url": "https://www.yelp.com/biz/tacos-el-compa-taqueria-san-jose?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=o4UUPjvhDn-NL9WikMyMEg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "sP7gwlvXvcQ21bFgeuuS5g",
+                    "image_url": null,
+                    "name": "Esther H.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=sP7gwlvXvcQ21bFgeuuS5g"
+                }
+            },
+            {
+                "id": "f19XOdxBe_PWYdpxMyKhPw",
+                "rating": 5,
+                "text": "5/5 Refried Bean and Cheese burrito. Excellent flavor. Next time I'm in the area, I'll buy one for there and one to go. \n\n4.5/5 Nacho fries. They don't just...",
+                "time_created": "2023-03-21 22:52:17",
+                "url": "https://www.yelp.com/biz/tacos-el-compa-taqueria-san-jose?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=f19XOdxBe_PWYdpxMyKhPw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "OEW5jsSlyk9QCdubC08P6Q",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/kO1erjhIrrRkLGrsASlOjw/o.jpg",
+                    "name": "Tom T.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=OEW5jsSlyk9QCdubC08P6Q"
+                }
+            },
+            {
+                "id": "ikqfE4dSqOxgnmWRd8picA",
+                "rating": 3,
+                "text": "This place is more like a 3.5 out of 5 stars. It has great Mexican food. My favorites are the Super Nacho w/ Al pastor, the hot Cheeto quesadilla, and the...",
+                "time_created": "2023-04-04 22:17:06",
+                "url": "https://www.yelp.com/biz/tacos-el-compa-taqueria-san-jose?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=ikqfE4dSqOxgnmWRd8picA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "q8fvrPz4cTahMVCDvr8tvQ",
+                    "image_url": "https://s3-media4.fl.yelpcdn.com/photo/vqlLnu0e3ZBQTsnFpUPtpg/o.jpg",
+                    "name": "Angelina C.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=q8fvrPz4cTahMVCDvr8tvQ"
+                }
+            }
+        ],
+        "total": 986
+    },
+    "CiDyH9qqDH-TRufUsMgBOw": {
+        "possible_languages": [
+            "en"
+        ],
+        "reviews": [
+            {
+                "id": "0RO_CdQcg7WaHFIN1h9DtQ",
+                "rating": 5,
+                "text": "Some of the best tacos I have ever eaten. \nAlso, when you're walking around an area for the first time and there's a line into the street, you know you have...",
+                "time_created": "2023-03-29 14:37:21",
+                "url": "https://www.yelp.com/biz/tacos-el-gordo-san-diego-8?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=0RO_CdQcg7WaHFIN1h9DtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "UZxu_SjdxOGYXNnSzLfWVQ",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/lMP9FOsJV1ay7GleI7M-Sg/o.jpg",
+                    "name": "Malori B.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=UZxu_SjdxOGYXNnSzLfWVQ"
+                }
+            },
+            {
+                "id": "vAKi67kiA147qffvlRXYmg",
+                "rating": 4,
+                "text": "It's one of several Tacos El Gordo in the area. But it's usually always very good. Brought the family and feasted on lengua, tripa, asada, buche and cabeza...",
+                "time_created": "2023-03-29 18:22:48",
+                "url": "https://www.yelp.com/biz/tacos-el-gordo-san-diego-8?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=vAKi67kiA147qffvlRXYmg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "Myw7F87xHjk3NhPThwcwJA",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/CK9eXyNlsXIRp3Jq80VJ3Q/o.jpg",
+                    "name": "John M.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=Myw7F87xHjk3NhPThwcwJA"
+                }
+            },
+            {
+                "id": "p9nyF38JpI5LH4RvqBGjNQ",
+                "rating": 5,
+                "text": "I am beyond excited that this place has opened up in Gaslamp and I don't have to drive all the way to Chula Vista anymore.\nI have been a Tacos El Gordo fan...",
+                "time_created": "2023-03-28 11:34:55",
+                "url": "https://www.yelp.com/biz/tacos-el-gordo-san-diego-8?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=p9nyF38JpI5LH4RvqBGjNQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "WhD0NhIqkkuNJPNOYn8TKg",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/WepNOLa654ALs7CO0Ej_jg/o.jpg",
+                    "name": "Vaani S.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=WhD0NhIqkkuNJPNOYn8TKg"
+                }
+            }
+        ],
+        "total": 49
+    },
+    "CnCpxcw9r6lgKDk4br8TKA": {
+        "possible_languages": [
+            "en",
+            "ja"
+        ],
+        "reviews": [
+            {
+                "id": "GfTA89k8U9NZtUHbmUSjWA",
+                "rating": 5,
+                "text": "Heard about the restaurant in Columbus OH, where I lived, but hadn't had it yet until tried in here. Absolutely loved the food and drinks. Service was great...",
+                "time_created": "2023-03-03 09:10:36",
+                "url": "https://www.yelp.com/biz/bakersfield-detroit?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=GfTA89k8U9NZtUHbmUSjWA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "E-1OMYo-VWGv-YYYstVk9g",
+                    "image_url": null,
+                    "name": "Rupali N.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=E-1OMYo-VWGv-YYYstVk9g"
+                }
+            },
+            {
+                "id": "Cp8grPWJxo4uF5QlgeRRaQ",
+                "rating": 5,
+                "text": "This place is the BOMB!! While it sort of says \"hipster,\" my wife and I hardly come CLOSE to being hipsters, yet we were welcomed with open arms to this...",
+                "time_created": "2023-02-10 15:23:03",
+                "url": "https://www.yelp.com/biz/bakersfield-detroit?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=Cp8grPWJxo4uF5QlgeRRaQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "zc7mTGbqfUsVNvrS3p3E7Q",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/d4FBtSTmMW3_9oSxmjs0WQ/o.jpg",
+                    "name": "Steve K.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=zc7mTGbqfUsVNvrS3p3E7Q"
+                }
+            },
+            {
+                "id": "6XbcBgRVdlH8C75kwOoJdw",
+                "rating": 4,
+                "text": "This is a fun place!  Make reservations..they get crowded!!  Good service at the bar while waiting for our table (I got there early). I had a super well...",
+                "time_created": "2023-03-22 21:45:13",
+                "url": "https://www.yelp.com/biz/bakersfield-detroit?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=6XbcBgRVdlH8C75kwOoJdw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "glFGvgpurnXhboKKwVRd7g",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/BiRnMhoCI21cdQ6Ey3JLxg/o.jpg",
+                    "name": "Lorraine F.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=glFGvgpurnXhboKKwVRd7g"
+                }
+            }
+        ],
+        "total": 669
+    },
+    "EsIasYYS7hymG_EBYa6ajg": {
+        "possible_languages": [
+            "en"
+        ],
+        "reviews": [
+            {
+                "id": "Z6Kgn0Nuf9vSTi19EOvebA",
+                "rating": 5,
+                "text": "Friendly service and amazing food. The pastor and asada tacos were some of the best I've ever had. The homemade pink corn tortillas were so yummy. Pastor...",
+                "time_created": "2023-02-11 20:49:51",
+                "url": "https://www.yelp.com/biz/bandito-taqueria-santa-ana-3?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=Z6Kgn0Nuf9vSTi19EOvebA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "_TBuJCtTZdeZhMmLSII9Dw",
+                    "image_url": null,
+                    "name": "Amanda B.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=_TBuJCtTZdeZhMmLSII9Dw"
+                }
+            },
+            {
+                "id": "-YVa6kr2pe-jGgEgc5fG-w",
+                "rating": 5,
+                "text": "Bandito Taqueria is one of my favorite places to celebrate Pre-Friday, Fridays, & even on Saturdays! (They're only open on those days after 6pm)\n\nItem of...",
+                "time_created": "2023-02-25 15:14:51",
+                "url": "https://www.yelp.com/biz/bandito-taqueria-santa-ana-3?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=-YVa6kr2pe-jGgEgc5fG-w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "woqoqxNda_65OHIdGEw_PA",
+                    "image_url": "https://s3-media4.fl.yelpcdn.com/photo/i9G8yPIo3QCGtF-uX2wrYQ/o.jpg",
+                    "name": "Truc T.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=woqoqxNda_65OHIdGEw_PA"
+                }
+            },
+            {
+                "id": "Gb5Z1tFAZ-SHtYMGlX2CVg",
+                "rating": 5,
+                "text": "It's pretty simple:\n\nThe food here is f*cking amazing. It doesn't hurt that the people working here are sincerely friendly, but at the end of the day it's...",
+                "time_created": "2023-02-24 21:50:34",
+                "url": "https://www.yelp.com/biz/bandito-taqueria-santa-ana-3?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=Gb5Z1tFAZ-SHtYMGlX2CVg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "3ymtTLYmQ5LHDZpbEnDVsQ",
+                    "image_url": "https://s3-media4.fl.yelpcdn.com/photo/H9QheE2rQin-b8m6HsVoRg/o.jpg",
+                    "name": "Thomas S.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=3ymtTLYmQ5LHDZpbEnDVsQ"
+                }
+            }
+        ],
+        "total": 83
+    },
+    "F-0LTiL6KY9fPrIDkt2m7w": {
+        "possible_languages": [
+            "en"
+        ],
+        "reviews": [
+            {
+                "id": "DKXCdQhL73yCXqbHhn_vRw",
+                "rating": 5,
+                "text": "This is such a phenomenal spot if you're looking for some high quality Mexican food. The first indication that you're in a good restaurant is the chips and...",
+                "time_created": "2023-04-09 10:40:28",
+                "url": "https://www.yelp.com/biz/taqueria-lupitas-detroit?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=DKXCdQhL73yCXqbHhn_vRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "COsNFlymnD4Ba7SqhrHR2g",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/s8BivuIshA-V1LreKLxs5w/o.jpg",
+                    "name": "Katherine F.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=COsNFlymnD4Ba7SqhrHR2g"
+                }
+            },
+            {
+                "id": "Ax-KxjkWfcolJduaBfh32A",
+                "rating": 5,
+                "text": "Fantastic, authentic, DELICIOUS Mexican food. \n\nStop at the ATM beforehand if you plan to dine here - it's cash only and doing so will make your life much...",
+                "time_created": "2023-01-30 09:06:00",
+                "url": "https://www.yelp.com/biz/taqueria-lupitas-detroit?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=Ax-KxjkWfcolJduaBfh32A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "322q8XCXAgwBU70tQTpKSw",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/24qAYROFANdWy-dY2PgpoA/o.jpg",
+                    "name": "Sofia S.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=322q8XCXAgwBU70tQTpKSw"
+                }
+            },
+            {
+                "id": "8EPmWrleAiEkKBt5x4sVyw",
+                "rating": 5,
+                "text": "The best in Mexican Village! Bring cash, because it's cash only.\n\nThis is the most authentic Mexican in SW Detroit.",
+                "time_created": "2023-01-08 20:50:18",
+                "url": "https://www.yelp.com/biz/taqueria-lupitas-detroit?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=8EPmWrleAiEkKBt5x4sVyw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "ky13x0VRfkHCDC_mdSejaQ",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/08e-ddsupYXwGtannBltnw/o.jpg",
+                    "name": "Joe B.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=ky13x0VRfkHCDC_mdSejaQ"
+                }
+            }
+        ],
+        "total": 360
+    },
+    "FrSc7Dn1YcZ2u49dIzBGAQ": {
+        "possible_languages": [
+            "en",
+            "es"
+        ],
+        "reviews": [
+            {
+                "id": "hZoI_q_t7Cv9ztAohX7DKg",
+                "rating": 5,
+                "text": "Look for the food truck! I drove around the block a few times trying to find a building. I almost gave up but ended up finding it. \n\nThe portion sizes were...",
+                "time_created": "2023-02-08 12:59:41",
+                "url": "https://www.yelp.com/biz/tacos-manuel-santa-ana?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=hZoI_q_t7Cv9ztAohX7DKg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "d8a712INR-G4CxLbuzzlBg",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/CqOFZW9GLjXiHnEwR6881w/o.jpg",
+                    "name": "Nor L.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=d8a712INR-G4CxLbuzzlBg"
+                }
+            },
+            {
+                "id": "_YooTptTBWvUYgfPOvNySQ",
+                "rating": 5,
+                "text": "Alright, this is THEE taco spot. Check it out, the carne asada is delicious. They take card and cash. Parking is easy and the food comes out quickly and...",
+                "time_created": "2023-02-01 16:57:35",
+                "url": "https://www.yelp.com/biz/tacos-manuel-santa-ana?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=_YooTptTBWvUYgfPOvNySQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "x3QDeuYnkWjUhlO2xcAETg",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/1DYvL7VACovmqFuru9_IHg/o.jpg",
+                    "name": "Gracious G.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=x3QDeuYnkWjUhlO2xcAETg"
+                }
+            },
+            {
+                "id": "fb-o0akPdO-ZEMRZsTDovQ",
+                "rating": 5,
+                "text": "Perfect street style chicken tacos. Those come with grilled onions and jalape\u00f1os which add to the flavor and their salsas are delicious too. We frequently...",
+                "time_created": "2022-12-31 20:07:44",
+                "url": "https://www.yelp.com/biz/tacos-manuel-santa-ana?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=fb-o0akPdO-ZEMRZsTDovQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "wlheMYVApG8A7Zko04yrXA",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/BjUxf4apWZe2AgMosrp4HA/o.jpg",
+                    "name": "Supra C.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=wlheMYVApG8A7Zko04yrXA"
+                }
+            }
+        ],
+        "total": 598
+    },
+    "I05n0mnefd9YhD1upBV5Zg": {
+        "possible_languages": [
+            "en"
+        ],
+        "reviews": [
+            {
+                "id": "0khHwOM7DY73CXlQf7WXlA",
+                "rating": 5,
+                "text": "Fast delicious Mexican food. Everything that we have tried has been delicious. I highly recommend",
+                "time_created": "2023-02-01 12:39:05",
+                "url": "https://www.yelp.com/biz/the-taco-stand-taqueria-allen-park?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=0khHwOM7DY73CXlQf7WXlA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "0A6ZCe_juEnPLh4kRwRfYg",
+                    "image_url": "https://s3-media4.fl.yelpcdn.com/photo/WBsT8MKc_pWvt13Nc3_AFA/o.jpg",
+                    "name": "Sally R.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=0A6ZCe_juEnPLh4kRwRfYg"
+                }
+            },
+            {
+                "id": "pPJVKCHatzTeWA1bANF5gQ",
+                "rating": 3,
+                "text": "Had 5 tacos the other day. Very flavorful and most of all just hot and delicious \n\nIt was exactly what i was wanting in a road side taco stand.\n\nOnly...",
+                "time_created": "2022-11-06 05:47:54",
+                "url": "https://www.yelp.com/biz/the-taco-stand-taqueria-allen-park?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=pPJVKCHatzTeWA1bANF5gQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "SIFXWnWUrgHQId0CQbFuJw",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/w6XlxSJxee9NFnsx9u1ETA/o.jpg",
+                    "name": "Kevin C.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=SIFXWnWUrgHQId0CQbFuJw"
+                }
+            },
+            {
+                "id": "pTTl5q-u6iYGCLPBypq2HA",
+                "rating": 3,
+                "text": "Warning: You only get a super small sliver of a dried out lime for every two tacos. They want to charge you 0.75 cents for more. The tacos are good though!",
+                "time_created": "2023-04-07 16:03:46",
+                "url": "https://www.yelp.com/biz/the-taco-stand-taqueria-allen-park?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=pTTl5q-u6iYGCLPBypq2HA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "4eMHCSClVp8h98dzcESZnw",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/RrRwNZvV7FGIcmJ0Dfsv_Q/o.jpg",
+                    "name": "Andrew M.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=4eMHCSClVp8h98dzcESZnw"
+                }
+            }
+        ],
+        "total": 229
+    },
+    "J3PJpa050pQz8E8MeiEDVw": {
+        "possible_languages": [
+            "en",
+            "es"
+        ],
+        "reviews": [
+            {
+                "id": "UlKEwRyG64zkOOpKhCzLlg",
+                "rating": 5,
+                "text": "Actually, this place is my go-to taco place in San Diego! You don't need to drive far, you don't need to queue, and they have the best shrimp tacos in the...",
+                "time_created": "2023-03-16 21:06:41",
+                "url": "https://www.yelp.com/biz/the-taco-stand-san-diego-10?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=UlKEwRyG64zkOOpKhCzLlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "PJg0pzD7rguVHmaXIQ00zQ",
+                    "image_url": "https://s3-media4.fl.yelpcdn.com/photo/UyHGU83AHBjJiUWaeHzt1Q/o.jpg",
+                    "name": "Mengxue B.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=PJg0pzD7rguVHmaXIQ00zQ"
+                }
+            },
+            {
+                "id": "okHvL_OQBcu6UIqVbdSJoQ",
+                "rating": 3,
+                "text": "Definitely wouldn't call it \"Tijuana style tacos\" other than the paper wrap around the taco. Meat had almost no seasoning/marinade, both beef and Al pastor...",
+                "time_created": "2023-04-03 13:17:50",
+                "url": "https://www.yelp.com/biz/the-taco-stand-san-diego-10?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=okHvL_OQBcu6UIqVbdSJoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "KO3f7mpqU4lPNdHNIAzXxQ",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/Ddj5xt9kuIt2kIoXAGy4qg/o.jpg",
+                    "name": "Michelle L.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=KO3f7mpqU4lPNdHNIAzXxQ"
+                }
+            },
+            {
+                "id": "2_-avJssuWy1nuCm1zjYuQ",
+                "rating": 3,
+                "text": "I have yet to try the OG Taco Stand in La Jolla but I've had the North Park one and it's comparable. I had the carne asada, al pastor, and Camaron or spicy...",
+                "time_created": "2023-03-27 17:55:03",
+                "url": "https://www.yelp.com/biz/the-taco-stand-san-diego-10?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=2_-avJssuWy1nuCm1zjYuQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "dylV8WIO4SiEzxqNjJX4Nw",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/HIsianZ3-5r8YCGG6EXuLA/o.jpg",
+                    "name": "Terrence S.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=dylV8WIO4SiEzxqNjJX4Nw"
+                }
+            }
+        ],
+        "total": 177
+    },
+    "JLkFKRX9UQbwOOWBhKqppQ": {
+        "possible_languages": [
+            "en"
+        ],
+        "reviews": [
+            {
+                "id": "Vr_XLqAFEx-s4v634kuzQg",
+                "rating": 5,
+                "text": "I ordered via door-dash. Food tasted good, Birria is must try. I wish I had clicked photos.",
+                "time_created": "2023-04-06 15:51:21",
+                "url": "https://www.yelp.com/biz/detroit-loves-tacos-detroit-3?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=Vr_XLqAFEx-s4v634kuzQg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "1TaMXcXV_0kvvvnrZC1Sfw",
+                    "image_url": null,
+                    "name": "Gaurav S.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=1TaMXcXV_0kvvvnrZC1Sfw"
+                }
+            },
+            {
+                "id": "kuevKWjdRnIehmwk57IYFQ",
+                "rating": 5,
+                "text": "They have chicken birria tacos!! First time trying the chicken version of birria tacos. I am not the biggest fan of red meat so when I heard they make their...",
+                "time_created": "2021-12-16 07:20:56",
+                "url": "https://www.yelp.com/biz/detroit-loves-tacos-detroit-3?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=kuevKWjdRnIehmwk57IYFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "cy71Y_9ZAemOKApI7G1NuQ",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/vEXM0IllwSxedbiZbuxu0g/o.jpg",
+                    "name": "Irma B.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=cy71Y_9ZAemOKApI7G1NuQ"
+                }
+            },
+            {
+                "id": "hdOmCTkuP_3tsstA5HA7uw",
+                "rating": 5,
+                "text": "Who doesn't love the taste of grandma's home cooking? NO ONE. Everyone prefers home cooked meals to fast food or restaurant food any-day right? \n\nOf course!...",
+                "time_created": "2022-01-20 09:46:47",
+                "url": "https://www.yelp.com/biz/detroit-loves-tacos-detroit-3?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=hdOmCTkuP_3tsstA5HA7uw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "klXZOEA7RNomNItlntXP_A",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/-zKh7Tf334tdjlmDRGjsxg/o.jpg",
+                    "name": "Samantha M.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=klXZOEA7RNomNItlntXP_A"
+                }
+            }
+        ],
+        "total": 12
+    },
+    "LND8d0yL5WQtEmLMrq0KDQ": {
+        "possible_languages": [
+            "en"
+        ],
+        "reviews": [
+            {
+                "id": "hZOlfv9Fts5lKzHH2dw6EQ",
+                "rating": 5,
+                "text": "Go to Chapala!! I've tried a few Mexican places in AA and Chapala definitely has the best vibes. They had holiday decorations up and all the servers were...",
+                "time_created": "2022-12-02 17:33:01",
+                "url": "https://www.yelp.com/biz/chapala-mexican-restaurant-ann-arbor?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=hZOlfv9Fts5lKzHH2dw6EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "PjNk6mvup9URtMCP7X2Czw",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/wzdeZU0he4bgMzECCilkRA/o.jpg",
+                    "name": "Sydney R.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=PjNk6mvup9URtMCP7X2Czw"
+                }
+            },
+            {
+                "id": "C7x38haeNqlJ__YG9uv6Uw",
+                "rating": 4,
+                "text": "Full disclosure: This is one of the first Mexican restaurants that I have eaten at since moving from Austin, Texas so take what I say with a grain of...",
+                "time_created": "2022-10-28 16:06:41",
+                "url": "https://www.yelp.com/biz/chapala-mexican-restaurant-ann-arbor?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=C7x38haeNqlJ__YG9uv6Uw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "noD5SYIXVgovlKLl2ugabg",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/ETDSRuvIQsrMGDkRaYVueQ/o.jpg",
+                    "name": "Gigi A.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=noD5SYIXVgovlKLl2ugabg"
+                }
+            },
+            {
+                "id": "nAjFaw81Nr0MJSTDxKLZzg",
+                "rating": 4,
+                "text": "Located a few blocks past the main drag of Downtown.  A series of neon signs illuminate the night with streetside tables as a seating option.  Food was...",
+                "time_created": "2022-08-26 18:49:56",
+                "url": "https://www.yelp.com/biz/chapala-mexican-restaurant-ann-arbor?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=nAjFaw81Nr0MJSTDxKLZzg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "zPNefR6Nz9J-zBXu5u19kw",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/jPRf6rHyxaLSwHaMKuY_bQ/o.jpg",
+                    "name": "John H.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=zPNefR6Nz9J-zBXu5u19kw"
+                }
+            }
+        ],
+        "total": 174
+    },
+    "Nd2-3upTQW9zeniNY60mIw": {
+        "possible_languages": [
+            "en"
+        ],
+        "reviews": [
+            {
+                "id": "kuEFmUTvMIybd4znP5dDDg",
+                "rating": 5,
+                "text": "I first heard about La Parrilla Loca in the Chronicle back in November, the Chronicle had listed this spot as one of the top 20 burritos in the Bay Area....",
+                "time_created": "2023-03-22 21:40:01",
+                "url": "https://www.yelp.com/biz/la-parrilla-loca-oakland?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=kuEFmUTvMIybd4znP5dDDg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "ZVlAs8gekQAcWIo5xHi9xQ",
+                    "image_url": "https://s3-media4.fl.yelpcdn.com/photo/TJpTC7sps9OPAyjtUfzbQg/o.jpg",
+                    "name": "Joey C.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=ZVlAs8gekQAcWIo5xHi9xQ"
+                }
+            },
+            {
+                "id": "IfgGeGoKIaJ5UeWvpvpdFQ",
+                "rating": 5,
+                "text": "These were the best tacos I've ever had!\n\nHighly recommend trying the cabeza and azada tacos.  The pastor had good flavour but was a tad too salty for...",
+                "time_created": "2023-02-11 16:04:08",
+                "url": "https://www.yelp.com/biz/la-parrilla-loca-oakland?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=IfgGeGoKIaJ5UeWvpvpdFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "Z5dzu1gBOZ1HT-_fJJwkHQ",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/G11CKlB0VPJIhmPLxgZUWw/o.jpg",
+                    "name": "Jacqueline T.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=Z5dzu1gBOZ1HT-_fJJwkHQ"
+                }
+            },
+            {
+                "id": "1uBqGYsrLIjRpsYyBSNgdA",
+                "rating": 5,
+                "text": "Discovered this gem of a food truck/stand last night! On arrival there were two lines -- one for ordering from the truck and one for the fresh made food...",
+                "time_created": "2023-02-04 09:26:53",
+                "url": "https://www.yelp.com/biz/la-parrilla-loca-oakland?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=1uBqGYsrLIjRpsYyBSNgdA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "2GRDmfloP6SeZhnonBIfLg",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/BMvuW7An8N9m1fWIjYxZRw/o.jpg",
+                    "name": "Ingrid C.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=2GRDmfloP6SeZhnonBIfLg"
+                }
+            }
+        ],
+        "total": 33
+    },
+    "NhqrYxqeB2uQgQKYLdCIWQ": {
+        "possible_languages": [
+            "es",
+            "en"
+        ],
+        "reviews": [
+            {
+                "id": "L3gDYryAh9q1bcOYE712Og",
+                "rating": 5,
+                "text": "Family owned and ran full restaurant and market. The restaurant is amazing. The family feel is so nice to know you're putting money straight into the...",
+                "time_created": "2023-01-12 04:19:12",
+                "url": "https://www.yelp.com/biz/la-jalisciense-detroit?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=L3gDYryAh9q1bcOYE712Og&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "tQ1hSfaZ7QaVaEI90lcG9A",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/agSmAgChO_1dlPUeArfNVQ/o.jpg",
+                    "name": "Melissa C.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=tQ1hSfaZ7QaVaEI90lcG9A"
+                }
+            },
+            {
+                "id": "WHOUCW6TPw7pjUp-HUvcqA",
+                "rating": 2,
+                "text": "The food here is really tasty don't get me wrong but what is going on with the pricing? We walked into a pretty empty restaurant on a Monday afternoon (only...",
+                "time_created": "2022-12-20 07:04:03",
+                "url": "https://www.yelp.com/biz/la-jalisciense-detroit?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=WHOUCW6TPw7pjUp-HUvcqA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "cy71Y_9ZAemOKApI7G1NuQ",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/vEXM0IllwSxedbiZbuxu0g/o.jpg",
+                    "name": "Irma B.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=cy71Y_9ZAemOKApI7G1NuQ"
+                }
+            },
+            {
+                "id": "hHsYu0BVHzw7Hx4JsQvLgg",
+                "rating": 5,
+                "text": "Ive driven past this place many times and never realized it was a grocery store & restaurant. I'm so glad I stopped in because the food was great and the...",
+                "time_created": "2023-01-21 10:32:56",
+                "url": "https://www.yelp.com/biz/la-jalisciense-detroit?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=hHsYu0BVHzw7Hx4JsQvLgg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "LS2CDPbVJrtnVdWTy34G4Q",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/kZyPdn-TUfKkzG0tSD7EsQ/o.jpg",
+                    "name": "Katelyn S.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=LS2CDPbVJrtnVdWTy34G4Q"
+                }
+            }
+        ],
+        "total": 56
+    },
     "O4ckSzkCQ2dY80uwpEE2qA": {
         "possible_languages": [
             "en",
@@ -286,6 +1379,244 @@
             }
         ],
         "total": 1294
+    },
+    "Oc5IjPyWE9dshSdRV8J2wQ": {
+        "possible_languages": [
+            "en",
+            "es"
+        ],
+        "reviews": [
+            {
+                "id": "9eGdCnTtrOYaszxykEiPfw",
+                "rating": 5,
+                "text": "I stopped here because the restaurant I usually go to on my Mexican grocery run was closed. The food was so robust and full of flavor that we ordered...",
+                "time_created": "2023-04-15 09:03:53",
+                "url": "https://www.yelp.com/biz/el-taco-veloz-detroit?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=9eGdCnTtrOYaszxykEiPfw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "A5fbHwSYDMg_gXEL0pbPTg",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/JrxKBKa370MAk_9T9tpHyQ/o.jpg",
+                    "name": "Chef T.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=A5fbHwSYDMg_gXEL0pbPTg"
+                }
+            },
+            {
+                "id": "GdiZryqowpehSCub2BFlWA",
+                "rating": 2,
+                "text": "I am always on the hunt for great tacos, especially al pastor, and when a friend was visiting from out of state I was excited to try a new place and this...",
+                "time_created": "2022-10-22 15:19:50",
+                "url": "https://www.yelp.com/biz/el-taco-veloz-detroit?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=GdiZryqowpehSCub2BFlWA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "GqajR6vAooD943LXNoHujg",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/IW2Dudaihqb-Z7gy5ZyCrw/o.jpg",
+                    "name": "Rebecca T.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=GqajR6vAooD943LXNoHujg"
+                }
+            },
+            {
+                "id": "nvQmbE7j49CtQ_z1Ber10Q",
+                "rating": 5,
+                "text": "This is one of the authentic and yummy Mexican food. They manage the place well, from when it was only in a truck until they are able to rent the place as...",
+                "time_created": "2022-06-30 08:28:56",
+                "url": "https://www.yelp.com/biz/el-taco-veloz-detroit?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=nvQmbE7j49CtQ_z1Ber10Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "XZUqg-I5rRzxhCPj3WIeqA",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/Z4y_vqjDw8QLLLHUf5R9Jg/o.jpg",
+                    "name": "Artha N.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=XZUqg-I5rRzxhCPj3WIeqA"
+                }
+            }
+        ],
+        "total": 68
+    },
+    "PBMysHzwWSLnIfDz59HVxg": {
+        "possible_languages": [
+            "en"
+        ],
+        "reviews": [
+            {
+                "id": "O3BQ-INkCKGWTBq7OvsXpA",
+                "rating": 5,
+                "text": "Amazing pizza. Better service. If you're looking for authentic pizza, this is the place. Everything is made fresh daily.",
+                "time_created": "2023-02-24 10:17:09",
+                "url": "https://www.yelp.com/biz/toarmina-s-pizza-ypsilanti-ypsilanti?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=O3BQ-INkCKGWTBq7OvsXpA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "FzfBEFThtHNb45DM9Uo1TA",
+                    "image_url": null,
+                    "name": "Fozia I.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=FzfBEFThtHNb45DM9Uo1TA"
+                }
+            },
+            {
+                "id": "uKB3HqFP7SGu7AWHY1QDPA",
+                "rating": 3,
+                "text": "The pizza was pretty tasteless. It just wasn't anything special. Not going to come back. No tomato flavor or Italian taste. Mushrooms like rubber. Crust was...",
+                "time_created": "2023-02-10 19:09:17",
+                "url": "https://www.yelp.com/biz/toarmina-s-pizza-ypsilanti-ypsilanti?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=uKB3HqFP7SGu7AWHY1QDPA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "otqAxw2kyN8uuz5Y2wcQlw",
+                    "image_url": null,
+                    "name": "Ana P.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=otqAxw2kyN8uuz5Y2wcQlw"
+                }
+            },
+            {
+                "id": "lA_oHR8pddYwWls0KXEw4A",
+                "rating": 1,
+                "text": "Sent order in 3 times charged and called to get the problem solved and phone disconnected",
+                "time_created": "2023-01-05 14:00:33",
+                "url": "https://www.yelp.com/biz/toarmina-s-pizza-ypsilanti-ypsilanti?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=lA_oHR8pddYwWls0KXEw4A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "P5BmAVNNUtEsM_a6J97AEA",
+                    "image_url": null,
+                    "name": "Joshua W.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=P5BmAVNNUtEsM_a6J97AEA"
+                }
+            }
+        ],
+        "total": 23
+    },
+    "PGJbyscmFcjFwQdrSDkoJg": {
+        "possible_languages": [
+            "en",
+            "es"
+        ],
+        "reviews": [
+            {
+                "id": "mT_m-ejHABYU0MxtGYSrQQ",
+                "rating": 5,
+                "text": "Great burritos for the price. \n\nNice local Bay Area business that doesn't reflect Bay Area prices for the quality.",
+                "time_created": "2022-11-05 17:41:24",
+                "url": "https://www.yelp.com/biz/tacos-sinaloa-oakland-8?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=mT_m-ejHABYU0MxtGYSrQQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "--N8bMebkrhJuFYkOVniYg",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/E1Aw5Eh0U4z1tvOhMm4VIw/o.jpg",
+                    "name": "Rex D.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=--N8bMebkrhJuFYkOVniYg"
+                }
+            },
+            {
+                "id": "ciLl1Rx3arE2JuC6XAClrw",
+                "rating": 4,
+                "text": "Came for late night tacos and left very happy. \n\nThe 10 min wait in the cold breeze was worth it. The tortillas were warm. The carnitas were crispy and...",
+                "time_created": "2023-04-02 23:18:42",
+                "url": "https://www.yelp.com/biz/tacos-sinaloa-oakland-8?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=ciLl1Rx3arE2JuC6XAClrw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "NJOspTE_Ms-b8ACPKY73Ww",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/2RbI8fslh_ZjZ0HIAlaF9A/o.jpg",
+                    "name": "Augusto T.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=NJOspTE_Ms-b8ACPKY73Ww"
+                }
+            },
+            {
+                "id": "sit_N7aZ4-O_O9NzS1YaMA",
+                "rating": 4,
+                "text": "Hit the spot for late night taco craving, cash only, friendly service but the line seemed to move kind of slow, fantastic carnitas and lengua, ask for extra...",
+                "time_created": "2023-04-01 15:01:19",
+                "url": "https://www.yelp.com/biz/tacos-sinaloa-oakland-8?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=sit_N7aZ4-O_O9NzS1YaMA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "fL-hUdawbrDM-T1o3AoDtg",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/be04iBKYwDhSJZE3fWAPcg/o.jpg",
+                    "name": "Pauline C.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=fL-hUdawbrDM-T1o3AoDtg"
+                }
+            }
+        ],
+        "total": 1182
+    },
+    "PUcKXy89g9f0fSEEGnxUFw": {
+        "possible_languages": [
+            "en",
+            "es"
+        ],
+        "reviews": [
+            {
+                "id": "_5ZXhXrJ1K_9QG-5iitXyA",
+                "rating": 5,
+                "text": "Best tacos ever. This is the only spot I know of that has suadero meat, which is the most perfectly seasoned, juicy, umami bite. The best time to go, for me...",
+                "time_created": "2023-03-08 02:47:32",
+                "url": "https://www.yelp.com/biz/tacos-el-gordo-oakland-2?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=_5ZXhXrJ1K_9QG-5iitXyA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "p0K6gdJiS89GtRFdGGYRQA",
+                    "image_url": "https://s3-media4.fl.yelpcdn.com/photo/X7GlSlpVPZTK5trQuRUYdg/o.jpg",
+                    "name": "Julian L.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=p0K6gdJiS89GtRFdGGYRQA"
+                }
+            },
+            {
+                "id": "p7wqAzQUZ11GI6-RKRmBjg",
+                "rating": 5,
+                "text": "One of the best trucks of all time.  I've eaten at most of the trucks from Lakeshore to 72nd and this remains my all time favorite.  They do an amazing job...",
+                "time_created": "2023-01-18 21:25:24",
+                "url": "https://www.yelp.com/biz/tacos-el-gordo-oakland-2?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=p7wqAzQUZ11GI6-RKRmBjg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "tGju_rBrS8UXBQxbpjukcg",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/d8DFZa6RwmEzZkROhWHuSQ/o.jpg",
+                    "name": "Doug E.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=tGju_rBrS8UXBQxbpjukcg"
+                }
+            },
+            {
+                "id": "ioR2XezD3f1IjYRUe9c8wQ",
+                "rating": 1,
+                "text": "Yuck, found hair in my taco. Meat is mediocre. Never ordering from them again! Al Pastor Tacos",
+                "time_created": "2023-03-26 13:47:26",
+                "url": "https://www.yelp.com/biz/tacos-el-gordo-oakland-2?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=ioR2XezD3f1IjYRUe9c8wQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "XStlHYC4EOEJ51172MPTuQ",
+                    "image_url": "https://s3-media4.fl.yelpcdn.com/photo/LYW5TkGOiJMIPeXrVwnpHg/o.jpg",
+                    "name": "Sarah B.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=XStlHYC4EOEJ51172MPTuQ"
+                }
+            }
+        ],
+        "total": 384
+    },
+    "SZg0iPlxBDD4AiqnWfxcbA": {
+        "possible_languages": [
+            "en"
+        ],
+        "reviews": [
+            {
+                "id": "RGzHWwH9GgIXzWMIJpVpcg",
+                "rating": 4,
+                "text": "There are all kinds of pizza places. \n\nIf Ann Arbor has a pizza style, it's thick, cheesy, and really meant for the college crowd. Detroit's pizza was...",
+                "time_created": "2022-01-16 19:51:45",
+                "url": "https://www.yelp.com/biz/pizza-replicator-ann-arbor?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=RGzHWwH9GgIXzWMIJpVpcg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "PipGc4TdxurGizJ6CKmU7Q",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/wK3qCYq3rkGCosrPi9VkMQ/o.jpg",
+                    "name": "Daniel B.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=PipGc4TdxurGizJ6CKmU7Q"
+                }
+            },
+            {
+                "id": "pHwODFsVlqmyhywQ2u_5Vw",
+                "rating": 5,
+                "text": "Fantastic Pizza   Max Sussman knows how to make pizza. He uses local high-quality ingredients and cooks them just minutes before you pick them up at the...",
+                "time_created": "2022-04-11 12:43:52",
+                "url": "https://www.yelp.com/biz/pizza-replicator-ann-arbor?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=pHwODFsVlqmyhywQ2u_5Vw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "Jst1yK94Vuz9mb_pafgfaA",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/RReituXHof0yqbiLKRhalQ/o.jpg",
+                    "name": "Charles C.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=Jst1yK94Vuz9mb_pafgfaA"
+                }
+            },
+            {
+                "id": "O-cQgOxGJR2ZtYult9NGUA",
+                "rating": 5,
+                "text": "Delicious hand-crafted pizzas cooked in little portable propane pizza ovens. High quality ingredients and toppings that are different every time this place...",
+                "time_created": "2022-07-11 11:59:55",
+                "url": "https://www.yelp.com/biz/pizza-replicator-ann-arbor?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=O-cQgOxGJR2ZtYult9NGUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "A-pMp3bwzNlBUgu38Ios5w",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/2aemSEN0WWt6dQGypqDs0g/o.jpg",
+                    "name": "Scott M.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=A-pMp3bwzNlBUgu38Ios5w"
+                }
+            }
+        ],
+        "total": 3
     },
     "T3UQrAKS5wpkstlQBK_gbw": {
         "possible_languages": [
@@ -335,6 +1666,1416 @@
         ],
         "total": 719
     },
+    "T7q_UCRZlbImpETHxXGWnw": {
+        "possible_languages": [
+            "en",
+            "es"
+        ],
+        "reviews": [
+            {
+                "id": "uMF6vwf7uDrYUiMGfUVjnQ",
+                "rating": 5,
+                "text": "Been a few times, great flavor in all of their meals. The guacamole is great, the queso less so. Highly recommend for good flavor on a budget",
+                "time_created": "2023-01-28 19:08:58",
+                "url": "https://www.yelp.com/biz/chelas-ann-arbor?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=uMF6vwf7uDrYUiMGfUVjnQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "U-Yn6LYhuMemQvyiqeyePg",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/XL2zz6cD_qQmgCgacwG-VQ/o.jpg",
+                    "name": "Andi P.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=U-Yn6LYhuMemQvyiqeyePg"
+                }
+            },
+            {
+                "id": "qdGRzesxLCNMjIaAgVYD3A",
+                "rating": 5,
+                "text": "No frills restaurant with outstanding Mexican fare. Order at the counter and they'll bring the food to your table. Grab napkins and plastic ware on the way...",
+                "time_created": "2022-12-26 17:22:48",
+                "url": "https://www.yelp.com/biz/chelas-ann-arbor?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=qdGRzesxLCNMjIaAgVYD3A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "M8l9El0FkhlbNbTj17C0nA",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/_NSUoSqjQ6mAPR7-a1tB-Q/o.jpg",
+                    "name": "Aileen B.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=M8l9El0FkhlbNbTj17C0nA"
+                }
+            },
+            {
+                "id": "tk0gJbPSbDjjTZcGNCDv4A",
+                "rating": 5,
+                "text": "Authentic Spanish food and reasonable prices. Love the chicken tamale meal and elite. Highly recommended",
+                "time_created": "2022-10-02 10:07:30",
+                "url": "https://www.yelp.com/biz/chelas-ann-arbor?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=tk0gJbPSbDjjTZcGNCDv4A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "MpQdyi2SyF0qYty-KSMfqQ",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/zskGR94koQf_vbG3RzPJWQ/o.jpg",
+                    "name": "Jenne E.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=MpQdyi2SyF0qYty-KSMfqQ"
+                }
+            }
+        ],
+        "total": 430
+    },
+    "Tlvou9l5cNp8o6UKwn-glQ": {
+        "possible_languages": [
+            "en",
+            "es"
+        ],
+        "reviews": [
+            {
+                "id": "EqyUscq9TrxNGGu8xZe4ow",
+                "rating": 5,
+                "text": "Best taco spot hands down! You know this place is good when there's a constant line, sometimes even right as they're setting up their stand. $2 a taco, cash...",
+                "time_created": "2023-04-05 10:58:47",
+                "url": "https://www.yelp.com/biz/tacos-el-may-westminster?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=EqyUscq9TrxNGGu8xZe4ow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "Z841sRRgmBDKFJAi9g6sUA",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/bisRsdEh-VlV0RFoe__XiQ/o.jpg",
+                    "name": "Winnie W.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=Z841sRRgmBDKFJAi9g6sUA"
+                }
+            },
+            {
+                "id": "DmO3pfjpDcb-UDVv5NVlmw",
+                "rating": 5,
+                "text": "This place, is unmatched. Was majorly craving street tacos and decided to check out what was close to me at the time. This place had 5 stars so I thought,...",
+                "time_created": "2023-03-26 09:00:21",
+                "url": "https://www.yelp.com/biz/tacos-el-may-westminster?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=DmO3pfjpDcb-UDVv5NVlmw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "Sm546-z7mswBRnStKPmKEQ",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/soARBp5AU9r0-WS2sTuJQw/o.jpg",
+                    "name": "Shareen D.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=Sm546-z7mswBRnStKPmKEQ"
+                }
+            },
+            {
+                "id": "8PXFgLewCUm-T2rJj15COA",
+                "rating": 5,
+                "text": "My partner and I recently moved to OC and are in search of the best tacos in the area. This street stand may take the cake.\n\nA local recommend this spot and...",
+                "time_created": "2022-11-25 22:34:19",
+                "url": "https://www.yelp.com/biz/tacos-el-may-westminster?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=8PXFgLewCUm-T2rJj15COA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "N4zoDGMcxDF1kCRqhW69gQ",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/JQ_xZRmzx5iNYfVdSRlrTw/o.jpg",
+                    "name": "Jordan H.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=N4zoDGMcxDF1kCRqhW69gQ"
+                }
+            }
+        ],
+        "total": 65
+    },
+    "UHFjEP5dVn4wqcjt7ByUog": {
+        "possible_languages": [
+            "en",
+            "fr",
+            "es"
+        ],
+        "reviews": [
+            {
+                "id": "l9pKnLvrHCz2IvWLQMx7Kw",
+                "rating": 5,
+                "text": "We got two tacos (carne asado and pollo Al pastor), a salad, a Peruvian sandwich (asado), and a chips and salsa.  We also got a strawberry agua...",
+                "time_created": "2023-03-11 17:15:10",
+                "url": "https://www.yelp.com/biz/cholita-linda-oakland?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=l9pKnLvrHCz2IvWLQMx7Kw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "okTRTi2HmVr0zhdCJM5ugg",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/w6bscjMEZ1ArMnJyZo0RKA/o.jpg",
+                    "name": "Paul M.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=okTRTi2HmVr0zhdCJM5ugg"
+                }
+            },
+            {
+                "id": "TdnI8ZAMZsMSsKQteM2V-Q",
+                "rating": 4,
+                "text": "I went heard again during the summer of 2021 with a friend and her mother. The mother pointed out that the Cuban ham sandwiches were kinda dry and I...",
+                "time_created": "2023-03-14 16:33:17",
+                "url": "https://www.yelp.com/biz/cholita-linda-oakland?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=TdnI8ZAMZsMSsKQteM2V-Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "vvq2Kls-mL1-sPSl2t6Rlw",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/wE1_8WclFfXLL930UhZEzg/o.jpg",
+                    "name": "Chris R.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=vvq2Kls-mL1-sPSl2t6Rlw"
+                }
+            },
+            {
+                "id": "nkzd_JJYhDQVB1UAYeIZGQ",
+                "rating": 5,
+                "text": "this spot has been on my list for a FAT minute, so I was so happy to finally be able to try @cholita_linda !! \n\nincorporating the inviting flavors of latin...",
+                "time_created": "2023-03-02 19:11:04",
+                "url": "https://www.yelp.com/biz/cholita-linda-oakland?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=nkzd_JJYhDQVB1UAYeIZGQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "1UecaNrM_rCK-_BtUyYiCw",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/TI27xt57oyaYskZzciQBXQ/o.jpg",
+                    "name": "Heather S.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=1UecaNrM_rCK-_BtUyYiCw"
+                }
+            }
+        ],
+        "total": 2038
+    },
+    "UcwbGa3VWldDdJl83jnpng": {
+        "possible_languages": [
+            "en",
+            "es",
+            "fr"
+        ],
+        "reviews": [
+            {
+                "id": "TGpzCSkdZbmZZFdK82GheA",
+                "rating": 5,
+                "text": "Food and service are excellent. Not a place of ambience prices seem fair. Not too much for me to get but not cheap either a great burrito was about $12....",
+                "time_created": "2023-02-25 23:16:09",
+                "url": "https://www.yelp.com/biz/taqueria-san-bruno-san-bruno?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=TGpzCSkdZbmZZFdK82GheA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "dXSyn1cFEjkMkuIsj1nvEA",
+                    "image_url": null,
+                    "name": "David H.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=dXSyn1cFEjkMkuIsj1nvEA"
+                }
+            },
+            {
+                "id": "mmF490xAIa0plGdgjeVFQA",
+                "rating": 5,
+                "text": "Def a hole in the wall kind of place. Parking is gonna be hard unless you're lucky and found a spot under the bridge. \n\nWe waited 20 mins for the food but...",
+                "time_created": "2023-04-02 13:10:24",
+                "url": "https://www.yelp.com/biz/taqueria-san-bruno-san-bruno?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=mmF490xAIa0plGdgjeVFQA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "p7ogdnjE3ve6_tC03iFtZw",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/yps3zEArz421dw6nrLh2XQ/o.jpg",
+                    "name": "Anna Vy V.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=p7ogdnjE3ve6_tC03iFtZw"
+                }
+            },
+            {
+                "id": "EWTn7__I9HEyEY5Gs1M-ag",
+                "rating": 5,
+                "text": "Came from a recommendation and realized this is a really good taqueria. One thing you'll notice is the number of awards plastered along the walls so you...",
+                "time_created": "2023-03-28 19:24:06",
+                "url": "https://www.yelp.com/biz/taqueria-san-bruno-san-bruno?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=EWTn7__I9HEyEY5Gs1M-ag&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "ItBo-BOc3EDBa9YdoXkKeg",
+                    "image_url": "https://s3-media4.fl.yelpcdn.com/photo/OdL2aXLnPPR8p6limR9HYw/o.jpg",
+                    "name": "Bryan L.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=ItBo-BOc3EDBa9YdoXkKeg"
+                }
+            }
+        ],
+        "total": 1578
+    },
+    "WAagEMgxpCCO0CfWTeLtzQ": {
+        "possible_languages": [
+            "en"
+        ],
+        "reviews": [
+            {
+                "id": "k5Da5Y-X4U5EOmZ9yP36yQ",
+                "rating": 5,
+                "text": "Great tacos and nachos \n\nBuild your own tacos option for the win.  Second time up in this joint. Will keep coming back",
+                "time_created": "2023-02-07 16:12:12",
+                "url": "https://www.yelp.com/biz/condado-tacos-detroit-3?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=k5Da5Y-X4U5EOmZ9yP36yQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "_HGZEdECy-2AVZOz0yvdSQ",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/3W0iZ9JauHu0wJ2YgZqSJA/o.jpg",
+                    "name": "Frank H.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=_HGZEdECy-2AVZOz0yvdSQ"
+                }
+            },
+            {
+                "id": "ezT0mwcAT9wr3FuPGHdmOQ",
+                "rating": 4,
+                "text": "Doris Approved. 4.7\n\nParking isn't the best for the street just fyi. not like mud or anything it's just hard to get spot if you go during prime hours....\n\nI...",
+                "time_created": "2023-02-02 16:28:20",
+                "url": "https://www.yelp.com/biz/condado-tacos-detroit-3?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=ezT0mwcAT9wr3FuPGHdmOQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "x7HcPmWIeILgkXUgCE3lOQ",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/SmKKD4BxPPmfuckYDfL5SQ/o.jpg",
+                    "name": "Doris K.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=x7HcPmWIeILgkXUgCE3lOQ"
+                }
+            },
+            {
+                "id": "6-Lxtwi26rA27pSp1yL6zQ",
+                "rating": 5,
+                "text": "Condado might be my new favorite place for Tacos and Tequila. \n\nThe restaurant is adorned with graffiti-like artwork. It is kept clean and the staff is A1....",
+                "time_created": "2023-01-15 12:55:56",
+                "url": "https://www.yelp.com/biz/condado-tacos-detroit-3?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=6-Lxtwi26rA27pSp1yL6zQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "EUgC5NMGwKF8RsUiMOnR3w",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/zJIRfDWAewvvXfbnzozoVQ/o.jpg",
+                    "name": "Cara B.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=EUgC5NMGwKF8RsUiMOnR3w"
+                }
+            }
+        ],
+        "total": 168
+    },
+    "Wd7Es-Z_tUOTUZ_DZUFvSg": {
+        "possible_languages": [
+            "en",
+            "es"
+        ],
+        "reviews": [
+            {
+                "id": "rbBDggLpemW4y3Ylzofkfg",
+                "rating": 5,
+                "text": "Great Carnitas, fast and kind service. The environment was nice and calm. Bigger then location in Gilroy.",
+                "time_created": "2023-02-17 23:11:29",
+                "url": "https://www.yelp.com/biz/carnitas-michoacan-san-jose?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=rbBDggLpemW4y3Ylzofkfg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "6DM4kwdAZSGZoqwysIkEyQ",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/fYSn17VbxnsSvICXSXQgHQ/o.jpg",
+                    "name": "Jesus O.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=6DM4kwdAZSGZoqwysIkEyQ"
+                }
+            },
+            {
+                "id": "gokWilVvpOJgTrv1-fnuhg",
+                "rating": 5,
+                "text": "I'm a big fan of almost all recipes involving pork but there is a special place in my heart for Carnitas. I feel blessed to live San Jose where I can find...",
+                "time_created": "2023-03-22 19:56:27",
+                "url": "https://www.yelp.com/biz/carnitas-michoacan-san-jose?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=gokWilVvpOJgTrv1-fnuhg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "FEIPq001D6QPmZU7sWsz-g",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/FDCBZIwY6S4bkR0-C5q8vw/o.jpg",
+                    "name": "Greg C.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=FEIPq001D6QPmZU7sWsz-g"
+                }
+            },
+            {
+                "id": "FXhgcglh3ogqblQoLXtC_Q",
+                "rating": 4,
+                "text": "The food is amazing, the carnitas were fresh and tasty. They didn't have fresh made tortillas. The orange juice was a bit watered down but tasty!\nI give it...",
+                "time_created": "2023-03-04 21:21:38",
+                "url": "https://www.yelp.com/biz/carnitas-michoacan-san-jose?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=FXhgcglh3ogqblQoLXtC_Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "eg6dZxQbs-kxbM9CX9AKFA",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/3LH60PfuwvoWSRRJpUIIjA/o.jpg",
+                    "name": "Mark M.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=eg6dZxQbs-kxbM9CX9AKFA"
+                }
+            }
+        ],
+        "total": 58
+    },
+    "Wk7--SVWMGpiJQnj087i2A": {
+        "possible_languages": [
+            "en",
+            "es"
+        ],
+        "reviews": [
+            {
+                "id": "FFJJj7HykLVVddoUPZS6Qg",
+                "rating": 5,
+                "text": "When you're craving solid tacos and don't want to deal with the fluff of a restaurant - check this place out! \n\nFood trucks are hit or miss but this one...",
+                "time_created": "2023-01-28 08:01:04",
+                "url": "https://www.yelp.com/biz/taqueria-ayutla-oaxaca-santa-ana?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=FFJJj7HykLVVddoUPZS6Qg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "5fX9IC0SYx6oivxms2yKfQ",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/gM-IbsbEjZhtA4WPYwp1Wg/o.jpg",
+                    "name": "Juanita D.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=5fX9IC0SYx6oivxms2yKfQ"
+                }
+            },
+            {
+                "id": "ubZ7fvw2MrQOXCAkUnK_qA",
+                "rating": 5,
+                "text": "One night my boyfriend and I were craving tacos so we decided to give this truck a shot. The minute we saw \"cash only\", we knew the vibes were good....",
+                "time_created": "2023-01-22 18:05:50",
+                "url": "https://www.yelp.com/biz/taqueria-ayutla-oaxaca-santa-ana?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=ubZ7fvw2MrQOXCAkUnK_qA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "ek83U2naXZ1KggBJx0tCTg",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/APOdVZD5oGu4nGZcKxKppg/o.jpg",
+                    "name": "Madelyn S.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=ek83U2naXZ1KggBJx0tCTg"
+                }
+            },
+            {
+                "id": "nIDweb7WcuuVhvFneToFEQ",
+                "rating": 5,
+                "text": "First of all- tacos en fuego!!!\n\nWorst part for me...I only had $6 actual dollars on me.   As soon as I'm done, I'm finding an atm and coming back. \n\nThe...",
+                "time_created": "2023-01-13 20:32:53",
+                "url": "https://www.yelp.com/biz/taqueria-ayutla-oaxaca-santa-ana?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=nIDweb7WcuuVhvFneToFEQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "Yp_rw7oHnGULuRPKFHnjWw",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/T02vE363xgm51BeOEQQOPw/o.jpg",
+                    "name": "Kimiko L.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=Yp_rw7oHnGULuRPKFHnjWw"
+                }
+            }
+        ],
+        "total": 328
+    },
+    "WoQJC9s_Hgj2IUXF7qQxqQ": {
+        "possible_languages": [
+            "en"
+        ],
+        "reviews": [
+            {
+                "id": "qXZH28RKCyULoahIqi478Q",
+                "rating": 5,
+                "text": "Music is a bit loud but service and food was excellent. Not cheap though. 2 people 2tacos each with 1 side of rice and beans $45",
+                "time_created": "2023-03-18 20:07:19",
+                "url": "https://www.yelp.com/biz/mikes-red-tacos-san-diego-2?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=qXZH28RKCyULoahIqi478Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "c2ypzT1anc-nEALBWBXOuQ",
+                    "image_url": null,
+                    "name": "Mary D.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=c2ypzT1anc-nEALBWBXOuQ"
+                }
+            },
+            {
+                "id": "aVKc0W4RCygjj26zbStJaA",
+                "rating": 5,
+                "text": "The food was delicious and the service was great! The only thing they don't have much is sitting but I think it's because they are so popular.",
+                "time_created": "2023-03-08 16:02:07",
+                "url": "https://www.yelp.com/biz/mikes-red-tacos-san-diego-2?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=aVKc0W4RCygjj26zbStJaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "JJaE5wy5PCIzgy1TlisYnw",
+                    "image_url": null,
+                    "name": "Julia C.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=JJaE5wy5PCIzgy1TlisYnw"
+                }
+            },
+            {
+                "id": "HG_-H5Ho88MGzD6eprahMA",
+                "rating": 5,
+                "text": "We really enjoyed the birria tacos here!! Also highly recommend the horchata. Nice staff. Good salsa bar with many options as much as you want. Its busy so...",
+                "time_created": "2023-03-05 15:56:05",
+                "url": "https://www.yelp.com/biz/mikes-red-tacos-san-diego-2?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=HG_-H5Ho88MGzD6eprahMA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "Z4dKIXqfnQbEtUdkUND6tg",
+                    "image_url": null,
+                    "name": "Zoe C.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=Z4dKIXqfnQbEtUdkUND6tg"
+                }
+            }
+        ],
+        "total": 416
+    },
+    "XOs9NgF-PTgX1WhIQiMrqA": {
+        "possible_languages": [
+            "en"
+        ],
+        "reviews": [
+            {
+                "id": "qsxa7UUjo2siF3mLD1mhfg",
+                "rating": 5,
+                "text": "Tacos you can't miss.. The asada and carnitas come heavily piled on top of two corn tortillas with Cilantro and onion.... Two sauces to top over your...",
+                "time_created": "2023-04-07 18:36:31",
+                "url": "https://www.yelp.com/biz/la-torre-taqueria-ypsilanti?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=qsxa7UUjo2siF3mLD1mhfg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "CkKeY6egx_EjUG0FFlYqlw",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/FpgUUf2io_WRlZ7WakC_3w/o.jpg",
+                    "name": "Christopher P.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=CkKeY6egx_EjUG0FFlYqlw"
+                }
+            },
+            {
+                "id": "6EL8jxra3JKzixu8p75GZA",
+                "rating": 5,
+                "text": "This is a gem in Ypsi. Delicious and authentic. The pastor slaps but everything is worth trying.",
+                "time_created": "2023-04-07 12:14:36",
+                "url": "https://www.yelp.com/biz/la-torre-taqueria-ypsilanti?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=6EL8jxra3JKzixu8p75GZA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "Y_QFIlXSnmxDs4ejDZlbEg",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/zA7ioBD9vvuHT3w1cY4Qbg/o.jpg",
+                    "name": "Ashley B.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=Y_QFIlXSnmxDs4ejDZlbEg"
+                }
+            },
+            {
+                "id": "GL3PYY7OJB678AqlnpU0oQ",
+                "rating": 5,
+                "text": "OK, so I'm from the Bay Area and I can't lie.  I was closeminded when I reviewed the selections from DoorDash.  I was stuck in the hotel room because my eye...",
+                "time_created": "2021-10-11 12:57:02",
+                "url": "https://www.yelp.com/biz/la-torre-taqueria-ypsilanti?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=GL3PYY7OJB678AqlnpU0oQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "0QeJC2inz6P-OVzROU_LNw",
+                    "image_url": "https://s3-media4.fl.yelpcdn.com/photo/ADI1clx_gtoHSO70z38iyg/o.jpg",
+                    "name": "Tram N.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=0QeJC2inz6P-OVzROU_LNw"
+                }
+            }
+        ],
+        "total": 180
+    },
+    "X_m0JA4lHPwQIDosxQ6niw": {
+        "possible_languages": [
+            "en"
+        ],
+        "reviews": [
+            {
+                "id": "B5PTvsr4__WQGDuF6G4PNQ",
+                "rating": 5,
+                "text": "If you haven't eaten here....GO!!! The food was delicious and the service fast and so friendly. We were the 1st customers of the day and within 15 minutes...",
+                "time_created": "2023-01-02 10:05:40",
+                "url": "https://www.yelp.com/biz/the-taco-factory-canton?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=B5PTvsr4__WQGDuF6G4PNQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "ZuJUoEEACAx9zBygfFY1xA",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/KDA-DTL-3YZYkU5ELsKVpQ/o.jpg",
+                    "name": "Michelle H.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=ZuJUoEEACAx9zBygfFY1xA"
+                }
+            },
+            {
+                "id": "_9nIPkm2g9doNQNhJwDl0Q",
+                "rating": 2,
+                "text": "Oh I wanted to like this place so bad. So close to home. Newly opened. But alas I have to keep it real. \n\nThe first thing you need to know is that most...",
+                "time_created": "2023-01-21 05:46:39",
+                "url": "https://www.yelp.com/biz/the-taco-factory-canton?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=_9nIPkm2g9doNQNhJwDl0Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "YDT6wB_pYplDiIGR2Y2wQw",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/TEY9Yqkh87g4DlCsZGmkTA/o.jpg",
+                    "name": "Amanda P.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=YDT6wB_pYplDiIGR2Y2wQw"
+                }
+            },
+            {
+                "id": "e6FpSciIntKuIve_i6RI6Q",
+                "rating": 3,
+                "text": "Nice to have some other options in Canton besides Mexican Fiesta but I'd say they're at the same level from a favor standpoint. \n\nThe fajitas were good but...",
+                "time_created": "2022-12-15 09:03:32",
+                "url": "https://www.yelp.com/biz/the-taco-factory-canton?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=e6FpSciIntKuIve_i6RI6Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "7CMCpT60qrOuzxY1ZgR76g",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/P8vO2bZnUNgdtkd82K1zeg/o.jpg",
+                    "name": "Tiffany Z.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=7CMCpT60qrOuzxY1ZgR76g"
+                }
+            }
+        ],
+        "total": 27
+    },
+    "ZZQk9t9w0oZ-cvRYNyN5Xg": {
+        "possible_languages": [
+            "en",
+            "es"
+        ],
+        "reviews": [
+            {
+                "id": "6nJw9ROZciHiTyOOSrbJBA",
+                "rating": 5,
+                "text": "Ordered: 4 carne asada and 1 Al pastor. \nRating: 7.5/10, so yummy! \ntacos at 2 am hit and service was amazing!! \n\nThe cucumbers here are so so fresh and the...",
+                "time_created": "2023-03-06 12:54:38",
+                "url": "https://www.yelp.com/biz/tacos-el-bandido-garden-grove-5?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=6nJw9ROZciHiTyOOSrbJBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "SutlOu47zyJrw4j1w2kuow",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/zXyeYE5mCTgQLuDzz_4TTw/o.jpg",
+                    "name": "Joy P.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=SutlOu47zyJrw4j1w2kuow"
+                }
+            },
+            {
+                "id": "pQ2o4gcRmpbtVvgK-w53NA",
+                "rating": 2,
+                "text": "Second time I've eaten here and it's really for the convenience since they are open late. Their sauces are good and their shrimp tacos. But shrimp burrito...",
+                "time_created": "2023-01-08 16:06:01",
+                "url": "https://www.yelp.com/biz/tacos-el-bandido-garden-grove-5?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=pQ2o4gcRmpbtVvgK-w53NA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "SmNDZLDGV9nXnhDLf3Yvdw",
+                    "image_url": "https://s3-media4.fl.yelpcdn.com/photo/m4vR72V-PMT-S_dtv1UMOQ/o.jpg",
+                    "name": "Kelly L.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=SmNDZLDGV9nXnhDLf3Yvdw"
+                }
+            },
+            {
+                "id": "pPzbBWH1_UBek44v3WBFyQ",
+                "rating": 5,
+                "text": "It's great that this place is open late but the tacos overall are so delicious and flavorful. There is a very good amount of meat provided and they're not...",
+                "time_created": "2023-02-21 01:47:11",
+                "url": "https://www.yelp.com/biz/tacos-el-bandido-garden-grove-5?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=pPzbBWH1_UBek44v3WBFyQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "7vllRO1FHolG_zxtCvseVg",
+                    "image_url": "https://s3-media4.fl.yelpcdn.com/photo/fcuaNNgVLRRMBoS6fEPUVQ/o.jpg",
+                    "name": "Mandy L.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=7vllRO1FHolG_zxtCvseVg"
+                }
+            }
+        ],
+        "total": 268
+    },
+    "_vw_4wA-tCE6KyelObmTaw": {
+        "possible_languages": [
+            "en",
+            "es"
+        ],
+        "reviews": [
+            {
+                "id": "hoza4FTQjJWewJS2GDGP7w",
+                "rating": 5,
+                "text": "Went here for the first time on my lunch break and my goodness... this spot was fire  I rock with the ambiance, staff is super friendly and the food was...",
+                "time_created": "2023-02-13 20:49:44",
+                "url": "https://www.yelp.com/biz/la-s%C3%BAper-birria-santa-ana-2?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=hoza4FTQjJWewJS2GDGP7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "vfb6ZzyLnw5wv2_8LLt5tQ",
+                    "image_url": null,
+                    "name": "Gio C.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=vfb6ZzyLnw5wv2_8LLt5tQ"
+                }
+            },
+            {
+                "id": "aazOy5ua3OG8DhtnOwt0iA",
+                "rating": 5,
+                "text": "Pros- the inside has such a fun vibe and the amount of Mexican chips, candies, rim dips etc was amazing. \nI honestly got a lot of childhood memories looking...",
+                "time_created": "2023-04-02 15:35:13",
+                "url": "https://www.yelp.com/biz/la-s%C3%BAper-birria-santa-ana-2?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=aazOy5ua3OG8DhtnOwt0iA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "N7O1tIl6Ah0BETM1d46zKg",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/RDo7yrXDZoAWuwpvlXcLaw/o.jpg",
+                    "name": "Patricia D.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=N7O1tIl6Ah0BETM1d46zKg"
+                }
+            },
+            {
+                "id": "I-eD7blmzsTHFZKFredUGQ",
+                "rating": 4,
+                "text": "If you are craving for some birria, this is the place to be. Our favorites were the bomb and Xolotaco. They bring over a small tray with all the fixings you...",
+                "time_created": "2023-03-30 09:20:07",
+                "url": "https://www.yelp.com/biz/la-s%C3%BAper-birria-santa-ana-2?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=I-eD7blmzsTHFZKFredUGQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "PNS8XlYdsL0oVbpirJ3TiA",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/ObNvfZDTUNGQqSjoJ_I5pg/o.jpg",
+                    "name": "Stephanie C.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=PNS8XlYdsL0oVbpirJ3TiA"
+                }
+            }
+        ],
+        "total": 1146
+    },
+    "bN2kWkTxmXgtOU-kMRkWWA": {
+        "possible_languages": [
+            "en",
+            "es",
+            "ja"
+        ],
+        "reviews": [
+            {
+                "id": "g_DPgXSy5Q_XOO3C5qaBbw",
+                "rating": 5,
+                "text": "Great tacos, great prices. The folks are real nice.   & I've always loved the food truck ambience. Perfect!",
+                "time_created": "2023-03-05 15:14:24",
+                "url": "https://www.yelp.com/biz/las-delicias-de-tonita-san-jose?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=g_DPgXSy5Q_XOO3C5qaBbw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "__PjxNNGXPyx4M59yzZ_aQ",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/YNIPWAa4HBi2RncW-a1ftw/o.jpg",
+                    "name": "Mischa G.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=__PjxNNGXPyx4M59yzZ_aQ"
+                }
+            },
+            {
+                "id": "Fr-pnopKJ02gy06nZISCrQ",
+                "rating": 5,
+                "text": "WOW! In my almost 30 years living in San Jose these tacos top the charts as the best!\n\nDelicious hand made corn tortillas, flavorful and great quality meat...",
+                "time_created": "2023-03-12 15:16:03",
+                "url": "https://www.yelp.com/biz/las-delicias-de-tonita-san-jose?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=Fr-pnopKJ02gy06nZISCrQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "FQgaXWqpx3RRR6ckcGIUdw",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/yXtxabM437tIYoaE_wlqyQ/o.jpg",
+                    "name": "Lauren H.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=FQgaXWqpx3RRR6ckcGIUdw"
+                }
+            },
+            {
+                "id": "z0o1VXTOwnvFHLH9ibE4pQ",
+                "rating": 5,
+                "text": "This place is so good.  I followed my nose here.  Located in downtown in a parking lot, I was a little skeptical. Looking a little lost, the customer in...",
+                "time_created": "2023-03-08 13:39:57",
+                "url": "https://www.yelp.com/biz/las-delicias-de-tonita-san-jose?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=z0o1VXTOwnvFHLH9ibE4pQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "_kENUv9ZoaomCD3nWkIUDg",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/d2SmmiFbMXUxT5-cTzu0OQ/o.jpg",
+                    "name": "Sonja P.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=_kENUv9ZoaomCD3nWkIUDg"
+                }
+            }
+        ],
+        "total": 158
+    },
+    "beuQL3_BPbkNMy8uQ9bJ7w": {
+        "possible_languages": [
+            "en",
+            "es"
+        ],
+        "reviews": [
+            {
+                "id": "68tm92RFCY6K2HYfgMj12Q",
+                "rating": 5,
+                "text": "One of my favorite places for tacos! Consistent quality each time I come here.\n\n- Suadero tacos: 12/10, so soft & juicy, much better than carne asada!!!\n-...",
+                "time_created": "2023-03-12 16:31:32",
+                "url": "https://www.yelp.com/biz/tacos-los-tres-reyes-san-jose-4?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=68tm92RFCY6K2HYfgMj12Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "0JGE2jQGgArlr49YCqBCWw",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/2_7m1Q79Nz-X0h5mc_NEaQ/o.jpg",
+                    "name": "Samantha L.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=0JGE2jQGgArlr49YCqBCWw"
+                }
+            },
+            {
+                "id": "ayrlMI2DFroVwfygGsbBTA",
+                "rating": 1,
+                "text": "Really disappointed. \n\nGriselda (she's on our receipt) today was extremely rude to us today at or around 4PM. \n\nWe waited in line as she laughed and gave...",
+                "time_created": "2023-03-17 16:45:53",
+                "url": "https://www.yelp.com/biz/tacos-los-tres-reyes-san-jose-4?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=ayrlMI2DFroVwfygGsbBTA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "UfC289a2KMl7bk4VGs4BoQ",
+                    "image_url": "https://s3-media4.fl.yelpcdn.com/photo/hti2wrvwFzmP4HpyDmpZtQ/o.jpg",
+                    "name": "Jojo N.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=UfC289a2KMl7bk4VGs4BoQ"
+                }
+            },
+            {
+                "id": "0PUnUO5AwF_bFqliEN9E3Q",
+                "rating": 5,
+                "text": "I've only been once. A coworker was suggesting this place after a big work meeting. \n\nTacos Los Tres Reyes is located on Story Road, they share a parking...",
+                "time_created": "2023-03-04 18:59:58",
+                "url": "https://www.yelp.com/biz/tacos-los-tres-reyes-san-jose-4?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=0PUnUO5AwF_bFqliEN9E3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "ls9Z1mRQ9m4sYG4f-WzoUA",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/OhToxUSjOdndlGyn9Mp9Jg/o.jpg",
+                    "name": "Mike L.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=ls9Z1mRQ9m4sYG4f-WzoUA"
+                }
+            }
+        ],
+        "total": 298
+    },
+    "d0v5Ig8LJyS6Bkw5BTkaqg": {
+        "possible_languages": [
+            "en"
+        ],
+        "reviews": [
+            {
+                "id": "Ty0kICF7L7kiSJyxz1DvUQ",
+                "rating": 5,
+                "text": "If you want AUTHENTIC tasting tacos! Look no further!!!!! Super bomb!!!!! We ordered the asada and chicken tacos. 10/10. We also got the steak fries, again...",
+                "time_created": "2023-03-11 20:28:18",
+                "url": "https://www.yelp.com/biz/el-rapido-y-sabroso-san-diego?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=Ty0kICF7L7kiSJyxz1DvUQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "FD2m5gO-J0zEDaJEBA0UyQ",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/SvoOe0HfV15CVey3XPKuVA/o.jpg",
+                    "name": "Isis P.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=FD2m5gO-J0zEDaJEBA0UyQ"
+                }
+            },
+            {
+                "id": "iXd4fe3gyFl032Qln-o82A",
+                "rating": 5,
+                "text": "I tried the pollo asado al pastor and suadero. The suadero was incredible. Great tacos, definitely come by",
+                "time_created": "2023-04-01 23:10:25",
+                "url": "https://www.yelp.com/biz/el-rapido-y-sabroso-san-diego?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=iXd4fe3gyFl032Qln-o82A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "Xt5obkg-lDZQSe5xvw34aQ",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/xMYg3sYqszhfY_vqQs1SrA/o.jpg",
+                    "name": "Ash D.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=Xt5obkg-lDZQSe5xvw34aQ"
+                }
+            }
+        ],
+        "total": 2
+    },
+    "dBtZR2CB8PVxndyF6K2wAQ": {
+        "possible_languages": [
+            "en",
+            "es",
+            "it",
+            "fr",
+            "ja",
+            "fil"
+        ],
+        "reviews": [
+            {
+                "id": "XhJUW-vge_lEU0MEgNP6-w",
+                "rating": 5,
+                "text": "Fresh tasting and delicious. Salsas are delicious and also replenished several times a day. You can definitely taste good quality carne asada and shrimp in...",
+                "time_created": "2023-03-24 14:18:14",
+                "url": "https://www.yelp.com/biz/the-taco-stand-la-jolla?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=XhJUW-vge_lEU0MEgNP6-w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "O7DErdXzu_8iBWV9IraN2A",
+                    "image_url": null,
+                    "name": "Ev M.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=O7DErdXzu_8iBWV9IraN2A"
+                }
+            },
+            {
+                "id": "7WtczpgCnQBW78isaFx4VQ",
+                "rating": 5,
+                "text": "Good food for the price. You get your food and sit at any empty place. It can get busy sometimes though. Try their carne asada fries.",
+                "time_created": "2023-03-14 19:55:42",
+                "url": "https://www.yelp.com/biz/the-taco-stand-la-jolla?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=7WtczpgCnQBW78isaFx4VQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "yusX9LZkMgTGaWeQ0CrRJQ",
+                    "image_url": null,
+                    "name": "helia z.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=yusX9LZkMgTGaWeQ0CrRJQ"
+                }
+            },
+            {
+                "id": "FIH9JN9_N41x75FcZXOEKg",
+                "rating": 5,
+                "text": "ABSOLUTELY the BEST tacos we have ever eaten. Everything is made fresh as you wait. Yes, the line can get long, but it was worth it!  If you're in La Jolla,...",
+                "time_created": "2023-02-20 18:33:36",
+                "url": "https://www.yelp.com/biz/the-taco-stand-la-jolla?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=FIH9JN9_N41x75FcZXOEKg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "KFSJ4m94seJyWzZ3Q6A2pA",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/rGF0y5I28FjbfoMYVPe3yw/o.jpg",
+                    "name": "Sara E.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=KFSJ4m94seJyWzZ3Q6A2pA"
+                }
+            }
+        ],
+        "total": 4484
+    },
+    "eEUJ8kJNsN75kB6d87lUJA": {
+        "possible_languages": [
+            "en"
+        ],
+        "reviews": [
+            {
+                "id": "8NfzeBiamkEqR1Qch3XVkQ",
+                "rating": 4,
+                "text": "Do you like tacos? Then you'll like this place. I got two tacos and the chips elote and it was very good and the portions were generous. \n\nChips elote -...",
+                "time_created": "2022-12-04 15:26:20",
+                "url": "https://www.yelp.com/biz/taq-taqueria-restaurant-and-bar-ann-arbor?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=8NfzeBiamkEqR1Qch3XVkQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "KOxyPT5yQOeASMahpuimAA",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/AxDp9875JWQ9UuFqsZ1MDg/o.jpg",
+                    "name": "Mallory R.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=KOxyPT5yQOeASMahpuimAA"
+                }
+            },
+            {
+                "id": "RQ3705_bPsSMyvth-0-D0A",
+                "rating": 3,
+                "text": "The ambiance was just okay where I sat, inside. A little cramped and kinda awkwardly sitting right next to the only other patron in the room. \n\nService was...",
+                "time_created": "2022-11-10 10:32:21",
+                "url": "https://www.yelp.com/biz/taq-taqueria-restaurant-and-bar-ann-arbor?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=RQ3705_bPsSMyvth-0-D0A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "_qKC3ADovOOvtfA3Jdve4w",
+                    "image_url": "https://s3-media4.fl.yelpcdn.com/photo/jLuw6hjAUnYN3iNizLOnMw/o.jpg",
+                    "name": "Philip A.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=_qKC3ADovOOvtfA3Jdve4w"
+                }
+            },
+            {
+                "id": "Edi7Nh40pYGp_oowrpBNOA",
+                "rating": 1,
+                "text": "We really enjoyed this places until the owner refused to serve us because we had a stroller. Mark (owner) said that he does not care to have kids in his...",
+                "time_created": "2022-11-04 15:11:05",
+                "url": "https://www.yelp.com/biz/taq-taqueria-restaurant-and-bar-ann-arbor?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=Edi7Nh40pYGp_oowrpBNOA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "JE7MSQ1dfjk5yX8BN6DWpw",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/6EBdP3hEWKIRaegZf_27ug/o.jpg",
+                    "name": "Angela S.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=JE7MSQ1dfjk5yX8BN6DWpw"
+                }
+            }
+        ],
+        "total": 180
+    },
+    "ep0nt5oFaaodqu3HJrgvnQ": {
+        "possible_languages": [
+            "en"
+        ],
+        "reviews": [
+            {
+                "id": "q6aSeO6vO_hsQdygMDAa6A",
+                "rating": 5,
+                "text": "First review deserves a good one! The owners are rising entrepreneurs with genuine hearts for serving people. Their tacos are hands down one of the best....",
+                "time_created": "2022-09-09 21:32:02",
+                "url": "https://www.yelp.com/biz/bayyyareatacos-san-jose?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=q6aSeO6vO_hsQdygMDAa6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "GXbjxiYLxP8NXSHDth7LoA",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/nCR4kOO5-E0DXLTesP4oLw/o.jpg",
+                    "name": "Jediah M.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=GXbjxiYLxP8NXSHDth7LoA"
+                }
+            },
+            {
+                "id": "qqkdbcoYjn_v4BWrdFAkMg",
+                "rating": 5,
+                "text": "Santiago catered my friends 50th birthday . Amazing experience. Made it so easy. He came provided everything . Table to set up , plates , utensils and...",
+                "time_created": "2022-10-05 19:55:14",
+                "url": "https://www.yelp.com/biz/bayyyareatacos-san-jose?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=qqkdbcoYjn_v4BWrdFAkMg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "KBguvtiSMh2JBUsxg90Vlg",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/rvQLVDCN8P6A3C1e-c4ehw/o.jpg",
+                    "name": "Sheribel A.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=KBguvtiSMh2JBUsxg90Vlg"
+                }
+            }
+        ],
+        "total": 2
+    },
+    "fOu6OKqUaAc_3jalEp0cfw": {
+        "possible_languages": [
+            "en"
+        ],
+        "reviews": [
+            {
+                "id": "NxSd-RKD5ZdASfxFegOZ8Q",
+                "rating": 5,
+                "text": "The Birria tacos are very good!! The tacos had a nice crunchy outer tortilla and a soft inner shell.",
+                "time_created": "2023-03-04 17:36:17",
+                "url": "https://www.yelp.com/biz/tacos-de-birria-estilo-guadalajara-laguna-hills?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=NxSd-RKD5ZdASfxFegOZ8Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "7r-tBPvksSGUVD4mdNzpPw",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/obj-OaEK9sTpRORNFfq2Mg/o.jpg",
+                    "name": "Brad M.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=7r-tBPvksSGUVD4mdNzpPw"
+                }
+            },
+            {
+                "id": "0mBCM0KEUIouFkBiWASaFg",
+                "rating": 5,
+                "text": "This is by far the best authentic taco restaurant in the area. This is my lunch go to. Delicious food and fair prices. I highly recommend.",
+                "time_created": "2023-03-06 10:00:31",
+                "url": "https://www.yelp.com/biz/tacos-de-birria-estilo-guadalajara-laguna-hills?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=0mBCM0KEUIouFkBiWASaFg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "e3cz6GzfaTn7du8eH2v1Ow",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/HTn6wvf9YMLuDpa3Pku5_w/o.jpg",
+                    "name": "Robert D.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=e3cz6GzfaTn7du8eH2v1Ow"
+                }
+            },
+            {
+                "id": "j-aOZS9Jtm2ba2KgqeqF5g",
+                "rating": 5,
+                "text": "Excellent Birria taco and Ramen Birria   ...... outdoor seating with some wind blocked  area too",
+                "time_created": "2023-02-23 14:20:11",
+                "url": "https://www.yelp.com/biz/tacos-de-birria-estilo-guadalajara-laguna-hills?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=j-aOZS9Jtm2ba2KgqeqF5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "ylTC5ezetD3Del0frGhXGQ",
+                    "image_url": null,
+                    "name": "Joseph Y.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=ylTC5ezetD3Del0frGhXGQ"
+                }
+            }
+        ],
+        "total": 309
+    },
+    "kLwuEacC69wf8aVAa0BojA": {
+        "possible_languages": [
+            "en",
+            "es",
+            "ja"
+        ],
+        "reviews": [
+            {
+                "id": "M6p0dqQH8hYNKlzvhiO7sw",
+                "rating": 5,
+                "text": "Legit some of the best Mexican food I have had since being back home in Chicago. Not only was the service top notch but the experience was great. The wait...",
+                "time_created": "2022-11-15 09:02:28",
+                "url": "https://www.yelp.com/biz/taqueria-mi-pueblo-detroit?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=M6p0dqQH8hYNKlzvhiO7sw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "jrddqIt1pcL2qcvfjn_A2g",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/k9jr4V3xPCj7iwkZGXH2WQ/o.jpg",
+                    "name": "Beatrice D.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=jrddqIt1pcL2qcvfjn_A2g"
+                }
+            },
+            {
+                "id": "lRM2o_4VRpE3ZEvNu2w01Q",
+                "rating": 4,
+                "text": "Coming from El Paso, I know what good Mexican food is. There isn't a single restaurant in St Louis, where I currently live that could compete with true...",
+                "time_created": "2022-07-31 16:47:32",
+                "url": "https://www.yelp.com/biz/taqueria-mi-pueblo-detroit?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=lRM2o_4VRpE3ZEvNu2w01Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "PtV5WTqecjLZsm5_1Sjauw",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/yrsfW1Y6escT45d1BmYfiQ/o.jpg",
+                    "name": "Ann H.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=PtV5WTqecjLZsm5_1Sjauw"
+                }
+            },
+            {
+                "id": "3cWjVTi9S11LiLxcxOJQwA",
+                "rating": 4,
+                "text": "I ordered wrong. The gringa likes what she likes the way she likes it.  Not the best idea. I wanted a Chile relleno but I'm a verde girl. Subbing sauce is...",
+                "time_created": "2022-06-14 14:09:32",
+                "url": "https://www.yelp.com/biz/taqueria-mi-pueblo-detroit?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=3cWjVTi9S11LiLxcxOJQwA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "o0g89bEnHnmwPXQu9QJ6eg",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/LmOOck7wwJFzl4KYzmCMDQ/o.jpg",
+                    "name": "Liz W.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=o0g89bEnHnmwPXQu9QJ6eg"
+                }
+            }
+        ],
+        "total": 593
+    },
+    "lbCCCe5ApiCaWLyUfWhTyQ": {
+        "possible_languages": [
+            "en"
+        ],
+        "reviews": [
+            {
+                "id": "qC8v6Y7x6Hsf65V16cbxaQ",
+                "rating": 5,
+                "text": "Joe is the best! If you're looking for a \"taco guy\" for any kind of parties, hit him up!\n\nI've booked Rosario's Tacos for work events, birthday parties, and...",
+                "time_created": "2022-12-30 12:43:56",
+                "url": "https://www.yelp.com/biz/rosarios-tacos-san-jose?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=qC8v6Y7x6Hsf65V16cbxaQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "H9LVW5HzFvsLzUxC-0W4hA",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/W1qTIlmMBEMPdck6xnq_YQ/o.jpg",
+                    "name": "Tram N.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=H9LVW5HzFvsLzUxC-0W4hA"
+                }
+            },
+            {
+                "id": "KbQZ8r5sCMkSm1tVY49bnQ",
+                "rating": 1,
+                "text": "Their place noted open but when I arrived, they are no longer at this site. It would've been nice to tell the customers so they don't waste time and gas...",
+                "time_created": "2023-02-20 20:41:39",
+                "url": "https://www.yelp.com/biz/rosarios-tacos-san-jose?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=KbQZ8r5sCMkSm1tVY49bnQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "u46MrDbCV-cUQwL1Ex471A",
+                    "image_url": "https://s3-media4.fl.yelpcdn.com/photo/sIOSXt_vnGjoVhTxvxqA7g/o.jpg",
+                    "name": "Monique B.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=u46MrDbCV-cUQwL1Ex471A"
+                }
+            },
+            {
+                "id": "1LuCEXj0mQZWG-lacN25FA",
+                "rating": 4,
+                "text": "TLDR; great tacos but a bit pricey.\n\nMy husband and I got one birria taco, one surf & turf, and one consomm\u00e9 to share - I think this was about $22.50....",
+                "time_created": "2022-10-23 15:58:48",
+                "url": "https://www.yelp.com/biz/rosarios-tacos-san-jose?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=1LuCEXj0mQZWG-lacN25FA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "jR6Jsau4acCm3CcCSfSt2Q",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/2o-3L3EDxj60XcjhWgLSKQ/o.jpg",
+                    "name": "Daisy T.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=jR6Jsau4acCm3CcCSfSt2Q"
+                }
+            }
+        ],
+        "total": 136
+    },
+    "mMyoJtv2orJX3x8hBE-yqQ": {
+        "possible_languages": [
+            "en",
+            "es"
+        ],
+        "reviews": [
+            {
+                "id": "k6owhz-4XJTE0eb7QNv3sQ",
+                "rating": 5,
+                "text": "Great tasting Chilaquiles and Tortas!!\nOne of our new favorite spots for some\nGood eats.",
+                "time_created": "2023-03-14 19:28:21",
+                "url": "https://www.yelp.com/biz/porque-no-tacos-san-leandro-3?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=k6owhz-4XJTE0eb7QNv3sQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "UWZstW4eq9iQAQF9SVbMlg",
+                    "image_url": "https://s3-media4.fl.yelpcdn.com/photo/8tZAgvRGikYqI_5x-JYMFA/o.jpg",
+                    "name": "Mario C.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=UWZstW4eq9iQAQF9SVbMlg"
+                }
+            },
+            {
+                "id": "hFHz2sJHFhklP0Anm5tpIA",
+                "rating": 4,
+                "text": "I was first introduced to Porque No? Tacos when they were in Downtown Oakland and recently, visited their new location within Franks Bar in San...",
+                "time_created": "2023-04-05 14:56:42",
+                "url": "https://www.yelp.com/biz/porque-no-tacos-san-leandro-3?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=hFHz2sJHFhklP0Anm5tpIA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "GFkOkEpTGcXxHd0-mnNVdw",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/TrQ6GPtcGLULCYYMViwfJQ/o.jpg",
+                    "name": "Cheryl M.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=GFkOkEpTGcXxHd0-mnNVdw"
+                }
+            },
+            {
+                "id": "A4BbABUoFHLLYla8corLrA",
+                "rating": 4,
+                "text": "Are you coming from San Jose and heading to the Oakland Arena for a concert? Stuck in the infamous 880 traffic? In San Leandro? Pre-gamed a little too early...",
+                "time_created": "2023-04-02 15:46:37",
+                "url": "https://www.yelp.com/biz/porque-no-tacos-san-leandro-3?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=A4BbABUoFHLLYla8corLrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "VQ4HaVxh2mKk220A05H7zQ",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/r1ih7o1D94bYFElXsjY8Sg/o.jpg",
+                    "name": "Rj G.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=VQ4HaVxh2mKk220A05H7zQ"
+                }
+            }
+        ],
+        "total": 620
+    },
+    "nfCSWsUpuZ755D0ihioVvQ": {
+        "possible_languages": [
+            "en"
+        ],
+        "reviews": [
+            {
+                "id": "JqYpBRakAVU8ZV4fRoQ6Ng",
+                "rating": 5,
+                "text": "Everyone in my family loves this place which says a lot as everyone very picky and very different diets . Unique and tasty margarita choices. Best chips...",
+                "time_created": "2023-02-26 07:21:10",
+                "url": "https://www.yelp.com/biz/maiz-mexican-cantina-ypsilanti-3?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=JqYpBRakAVU8ZV4fRoQ6Ng&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "jXWCU73GvZtEHgWpSULXig",
+                    "image_url": null,
+                    "name": "Ingrid R.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=jXWCU73GvZtEHgWpSULXig"
+                }
+            },
+            {
+                "id": "Q1E8swfWKUV00BrMwx-zGA",
+                "rating": 5,
+                "text": "So I stooped in for a quick beer and to check the scores as I explored Depot Town.  The happy hour special last were amazing.  The salsa with the chips was...",
+                "time_created": "2022-11-05 11:31:37",
+                "url": "https://www.yelp.com/biz/maiz-mexican-cantina-ypsilanti-3?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=Q1E8swfWKUV00BrMwx-zGA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "-Z3etByzE8vbCPli-LNeYA",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/Cs54aN95T25QD1MA_uCAZg/o.jpg",
+                    "name": "Chad B.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=-Z3etByzE8vbCPli-LNeYA"
+                }
+            },
+            {
+                "id": "n4ScRmgv-cPPGXAR_kASeA",
+                "rating": 4,
+                "text": "Right in the heart of downtown Depot Town, MAIZ is my go to when I am in the mood for tacos. This neighborhood is a really cool spot. Cultivate closed which...",
+                "time_created": "2023-03-18 11:30:05",
+                "url": "https://www.yelp.com/biz/maiz-mexican-cantina-ypsilanti-3?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=n4ScRmgv-cPPGXAR_kASeA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "YwRIuytUDZ__aSaacyut9A",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/u6spGbYBFEilMwalBma4xw/o.jpg",
+                    "name": "Jewell D.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=YwRIuytUDZ__aSaacyut9A"
+                }
+            }
+        ],
+        "total": 777
+    },
+    "niDtW169QN_iy7Ob_H16YQ": {
+        "possible_languages": [
+            "en"
+        ],
+        "reviews": [
+            {
+                "id": "5Hp-tRBHtwRL0kcy_vzGkQ",
+                "rating": 5,
+                "text": "Took a chance while looking for lunch while in Ann Arbor. What a great find. Amazing tacos with wicked flavor.",
+                "time_created": "2022-10-17 06:41:07",
+                "url": "https://www.yelp.com/biz/tacos-el-mariachi-loco-ann-arbor?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=5Hp-tRBHtwRL0kcy_vzGkQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "wTQm0zWc4KfZDD404jyGJA",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/c3oLN0wXSFx4hiyfWcPrsg/o.jpg",
+                    "name": "CJ A.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=wTQm0zWc4KfZDD404jyGJA"
+                }
+            },
+            {
+                "id": "tTpneYr0GP7u7QjH5JDjhQ",
+                "rating": 5,
+                "text": "How have I gone so long not knowing this was here?!?\n\nVery delicious Mexican food truck at the parking lot of Worldwide Sports. We were excited to try a few...",
+                "time_created": "2021-06-23 14:44:46",
+                "url": "https://www.yelp.com/biz/tacos-el-mariachi-loco-ann-arbor?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=tTpneYr0GP7u7QjH5JDjhQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "poVgBra2YN8DaJg5_CkL9w",
+                    "image_url": "https://s3-media4.fl.yelpcdn.com/photo/vLG_DysvaIftZS7ZtMM1UA/o.jpg",
+                    "name": "Jesus E.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=poVgBra2YN8DaJg5_CkL9w"
+                }
+            },
+            {
+                "id": "_c9bQreoouqfXflD5iwuVQ",
+                "rating": 3,
+                "text": "Wanted to order ahead before heading out... called twice, no answer, so drove up, ordered and waited for the food. I ordered the following: \n\n- 6 tacos (al...",
+                "time_created": "2020-11-20 11:46:56",
+                "url": "https://www.yelp.com/biz/tacos-el-mariachi-loco-ann-arbor?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=_c9bQreoouqfXflD5iwuVQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "cMIVlEuCKkiEo1QkPBbMaw",
+                    "image_url": "https://s3-media4.fl.yelpcdn.com/photo/oLLPGcqXtooa49PZ57dyXg/o.jpg",
+                    "name": "Jason C.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=cMIVlEuCKkiEo1QkPBbMaw"
+                }
+            }
+        ],
+        "total": 27
+    },
+    "pfj2X3oGYi4Mx81ZDMg7HA": {
+        "possible_languages": [
+            "en",
+            "es"
+        ],
+        "reviews": [
+            {
+                "id": "n6ymN-94LDO4H8HDX5Nr6g",
+                "rating": 5,
+                "text": "We love trying new tacos so here we go\n\nFood: got 3 tacos asada 8/10 only because it was a tad bit salty, carnitas 10/10 crispy and flavorful, tripas 10/10...",
+                "time_created": "2023-02-05 21:50:56",
+                "url": "https://www.yelp.com/biz/tacos-el-autlense-albany?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=n6ymN-94LDO4H8HDX5Nr6g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "hqxagKjjMvq0KkPTdrSbpg",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/F9yZYnOk-J9O0AMwIBNriA/o.jpg",
+                    "name": "Natalia R.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=hqxagKjjMvq0KkPTdrSbpg"
+                }
+            },
+            {
+                "id": "wkOwA7qq0jXERhVpwfbrUA",
+                "rating": 4,
+                "text": "This spot is 9 minutes away by foot from my workplace and I was so excited to try it! My coworkers mentioned this place to me so I got curious and gave it a...",
+                "time_created": "2022-11-14 20:21:15",
+                "url": "https://www.yelp.com/biz/tacos-el-autlense-albany?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=wkOwA7qq0jXERhVpwfbrUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "_E0udZp20_fMylXNcsSVVQ",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/lOEmdq2Okq7xCnrczKKUog/o.jpg",
+                    "name": "Christine F.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=_E0udZp20_fMylXNcsSVVQ"
+                }
+            },
+            {
+                "id": "qilFPvsPDJ1ikQlBfm5x_w",
+                "rating": 4,
+                "text": "I've been wanting tortas and tacos for a while but couldn't find a great food truck nearby.  I was so lucky to have found this food truck nearby.  I knew it...",
+                "time_created": "2023-03-26 00:03:16",
+                "url": "https://www.yelp.com/biz/tacos-el-autlense-albany?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=qilFPvsPDJ1ikQlBfm5x_w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "PS52wulVRBH3mSw8Tk9zAw",
+                    "image_url": "https://s3-media4.fl.yelpcdn.com/photo/b44HGI4dxVBtD4lJRtys8w/o.jpg",
+                    "name": "John F.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=PS52wulVRBH3mSw8Tk9zAw"
+                }
+            }
+        ],
+        "total": 513
+    },
+    "rbr0BAAI50t7YAjbh8ew8Q": {
+        "possible_languages": [
+            "en",
+            "es"
+        ],
+        "reviews": [
+            {
+                "id": "LvpT34_056YRqKctYPduNA",
+                "rating": 5,
+                "text": "Delicious tacos, semi-sketchy area, good amount of meat, people are nice, best part: the salsa bar where you can add as much extra onions,  cilantro and...",
+                "time_created": "2023-01-16 22:36:47",
+                "url": "https://www.yelp.com/biz/tacos-montero-san-jose?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=LvpT34_056YRqKctYPduNA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "AEgfWXspJr-7im6OZW9plg",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/u9heNw2pccdSo0NY-b6CLQ/o.jpg",
+                    "name": "Nic K.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=AEgfWXspJr-7im6OZW9plg"
+                }
+            },
+            {
+                "id": "18JGFaTiANycv3SrHeCCdQ",
+                "rating": 2,
+                "text": "Tacos Montero is parked in the corner outside of a liquor store. The usual spots my bf and I go to were either closed and way too busy, so we saw this spot...",
+                "time_created": "2023-02-13 11:28:13",
+                "url": "https://www.yelp.com/biz/tacos-montero-san-jose?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=18JGFaTiANycv3SrHeCCdQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "SPq3VpOxYZcEXxwtJynjlA",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/IaHAQBDd8ke4KGaFyW2Pxw/o.jpg",
+                    "name": "Elizabeth L.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=SPq3VpOxYZcEXxwtJynjlA"
+                }
+            },
+            {
+                "id": "Opbi8-HO71esp6ESGoO5oA",
+                "rating": 3,
+                "text": "Service-Good, friendly \nFood- we got 2 quesadillas and weren't impressed carne  asada lacked flavor and there wasn't hardly any cheese. It was like a big...",
+                "time_created": "2023-01-28 15:53:42",
+                "url": "https://www.yelp.com/biz/tacos-montero-san-jose?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=Opbi8-HO71esp6ESGoO5oA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "tXe7X_C0R1ZWmVMyM7dfmQ",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/x7Usuq-dmJ7deMmUwLyXyw/o.jpg",
+                    "name": "Marina P.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=tXe7X_C0R1ZWmVMyM7dfmQ"
+                }
+            }
+        ],
+        "total": 128
+    },
+    "s8x9YIRRASt8h_I41VzVCw": {
+        "possible_languages": [
+            "en"
+        ],
+        "reviews": [
+            {
+                "id": "bI2Ey1HX7imySCi1fDQZag",
+                "rating": 5,
+                "text": "When I saw that Joe's pizza had a spot in Michigan i was excited! Very good traditional NYC slices, very fast service & amazing staff team.\n\nThe place is...",
+                "time_created": "2023-01-29 16:10:17",
+                "url": "https://www.yelp.com/biz/joes-pizza-ann-arbor?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=bI2Ey1HX7imySCi1fDQZag&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "z6m6QvLsXGthYdV5Mx6OAw",
+                    "image_url": "https://s3-media4.fl.yelpcdn.com/photo/eEE-pC63dpXbaPqfXDEfjw/o.jpg",
+                    "name": "Moe R.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=z6m6QvLsXGthYdV5Mx6OAw"
+                }
+            },
+            {
+                "id": "by8omIF-ij0QqlikJhB-eA",
+                "rating": 4,
+                "text": "Advertised as NYC pizza - it definitely is reminiscent of pizza back home but definitely not worth the price of $3.50 for a regular slice. Best part of the...",
+                "time_created": "2023-04-04 22:14:33",
+                "url": "https://www.yelp.com/biz/joes-pizza-ann-arbor?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=by8omIF-ij0QqlikJhB-eA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "BaZ5UV2FjHfsY2LmMNjdKg",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/6_YLgyH3JlY8jwGHuRjatA/o.jpg",
+                    "name": "Kevin C.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=BaZ5UV2FjHfsY2LmMNjdKg"
+                }
+            },
+            {
+                "id": "WE9GH6OzCKKcrAKcpfHyzg",
+                "rating": 4,
+                "text": "Classic New York style pizza by the slice. You know exactly what you're getting. Standard cheese or pepperoni is ~$3-4/slice. Supreme is ~$5/slice. The...",
+                "time_created": "2023-03-24 16:10:59",
+                "url": "https://www.yelp.com/biz/joes-pizza-ann-arbor?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=WE9GH6OzCKKcrAKcpfHyzg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "A0UYvG73ey_I58wWBI6QbQ",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/v6CJyvcd-gQPHpdFcfKSIQ/o.jpg",
+                    "name": "Conner B.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=A0UYvG73ey_I58wWBI6QbQ"
+                }
+            }
+        ],
+        "total": 159
+    },
+    "sXU8ttDetvZdkg1HB0mpkw": {
+        "possible_languages": [
+            "en",
+            "es"
+        ],
+        "reviews": [
+            {
+                "id": "fZS58Qv9v2g1Xjk10L8BeA",
+                "rating": 5,
+                "text": "This place was great! So many options and you really can't go wrong with any of them. Had a few chorizo and carne asada tacos. Loved the salsa options to...",
+                "time_created": "2023-03-31 23:55:05",
+                "url": "https://www.yelp.com/biz/tacos-mi-reynita-san-leandro?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=fZS58Qv9v2g1Xjk10L8BeA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "KoD-2fnGDbseiYxNftgDMg",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/5ykiYQo4ENUSa_d5929WWQ/o.jpg",
+                    "name": "Christopher S.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=KoD-2fnGDbseiYxNftgDMg"
+                }
+            },
+            {
+                "id": "iIib7mlcKnq6DGuTTBDAvA",
+                "rating": 4,
+                "text": "As we approached the taco truck, we see smoke in the air - it's the meat grilling.  The smell in the air was great.  Parking was a little difficult as it's...",
+                "time_created": "2023-03-26 18:06:55",
+                "url": "https://www.yelp.com/biz/tacos-mi-reynita-san-leandro?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=iIib7mlcKnq6DGuTTBDAvA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "kb-q8dRZgJ9NO9CyL-HwJg",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/3Qa9mrCZOf1chr7ZU25JPA/o.jpg",
+                    "name": "Sandy M.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=kb-q8dRZgJ9NO9CyL-HwJg"
+                }
+            },
+            {
+                "id": "7aCGfUG5siSik7uzZuLh2w",
+                "rating": 5,
+                "text": "It is a 4.5 stars but I am rounding up rather than down!\n\nThe location is not where you think it is going to be.  Reminds me of LA street taco vibes.  There...",
+                "time_created": "2023-03-23 10:50:39",
+                "url": "https://www.yelp.com/biz/tacos-mi-reynita-san-leandro?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=7aCGfUG5siSik7uzZuLh2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "UD6w7Mvqq4-2pnolkcVueg",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/iYXruFn1hDwNsxtZyM4qSg/o.jpg",
+                    "name": "Dilys Y.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=UD6w7Mvqq4-2pnolkcVueg"
+                }
+            }
+        ],
+        "total": 33
+    },
+    "ssJJPFuV6tTDgHYe2w9csQ": {
+        "possible_languages": [
+            "en",
+            "es"
+        ],
+        "reviews": [
+            {
+                "id": "OG0PPiMTohkx3YKi2Hh3VA",
+                "rating": 5,
+                "text": "We ate here once about 10 years ago, and it was so so good. Happily, when we returned today, it was just as good as I remembered. I had fish tacos with...",
+                "time_created": "2023-04-03 23:09:24",
+                "url": "https://www.yelp.com/biz/oscars-mexican-seafood-san-diego-3?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=OG0PPiMTohkx3YKi2Hh3VA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "5-CVzlHLB8Hn5Zza5mcnqA",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/Ln6UqzwexDz4AUvc8iTCoA/o.jpg",
+                    "name": "Joe L.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=5-CVzlHLB8Hn5Zza5mcnqA"
+                }
+            },
+            {
+                "id": "k795bduYNnCWGLzf-ibGyQ",
+                "rating": 5,
+                "text": "Definitely a must if you want fresh seafood tacos! I'd recommend ordering ahead for a quick pick-up and eating it at the benches overlooking the beach...",
+                "time_created": "2023-03-26 20:05:06",
+                "url": "https://www.yelp.com/biz/oscars-mexican-seafood-san-diego-3?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=k795bduYNnCWGLzf-ibGyQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "QM8AvxdyPcEUCyDQi1wuMA",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/BvQ_BMHZzwKCWSaxcAB6SA/o.jpg",
+                    "name": "Sophie T.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=QM8AvxdyPcEUCyDQi1wuMA"
+                }
+            },
+            {
+                "id": "mCno5xXeTGXaYNR7pq6pqg",
+                "rating": 5,
+                "text": "I had heard about Oscar's for years and finally visited when I had a friend staying in town who wanted some seafood tacos. Oscar's definitely lived up the...",
+                "time_created": "2023-03-26 14:18:49",
+                "url": "https://www.yelp.com/biz/oscars-mexican-seafood-san-diego-3?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=mCno5xXeTGXaYNR7pq6pqg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "hHgNg6u9P_Ym5wLXmnoBcw",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/J4Pr0b_OLmBH8251aEAmow/o.jpg",
+                    "name": "Abby W.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=hHgNg6u9P_Ym5wLXmnoBcw"
+                }
+            }
+        ],
+        "total": 3357
+    },
+    "tLTpbene-GKnThXP1xiQIQ": {
+        "possible_languages": [
+            "en",
+            "es"
+        ],
+        "reviews": [
+            {
+                "id": "D0j0TQBOwK9T0Lsh_V1sqA",
+                "rating": 5,
+                "text": "I've lived in Los Angeles for over a decade. I am a chef myself. I know good tacos. These are by far the best I've tried so far in Michigan. I've tried...",
+                "time_created": "2023-04-04 19:27:48",
+                "url": "https://www.yelp.com/biz/que-pasa-taqueria-sterling-heights-3?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=D0j0TQBOwK9T0Lsh_V1sqA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "5d7vvJPWjjxOj0y8jaGoqQ",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/H5McXGdkAH8yYm_fPkurfw/o.jpg",
+                    "name": "Edward E.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=5d7vvJPWjjxOj0y8jaGoqQ"
+                }
+            },
+            {
+                "id": "H9FU39cQEmyLcqYd-UvC_w",
+                "rating": 5,
+                "text": "This is hands down my favorite taco place! I don't understand the negative reviews about price and oil. First of all, you get a full meal with a drink...",
+                "time_created": "2023-02-16 13:20:27",
+                "url": "https://www.yelp.com/biz/que-pasa-taqueria-sterling-heights-3?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=H9FU39cQEmyLcqYd-UvC_w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "PEKZQPK9QDmlHE9TQZk3gg",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/SHghfdvN1j5kglTfx81dTQ/o.jpg",
+                    "name": "Angela T.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=PEKZQPK9QDmlHE9TQZk3gg"
+                }
+            },
+            {
+                "id": "iK2KwdonXYbiU-OsrvAZ1g",
+                "rating": 5,
+                "text": "Best Al pastor burrito I had so far in the area! The perfect amount of juiciness, meat, salsa, lettuce, and juiciness! Oh man :) Let's see, I did carry out...",
+                "time_created": "2022-12-09 12:35:39",
+                "url": "https://www.yelp.com/biz/que-pasa-taqueria-sterling-heights-3?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=iK2KwdonXYbiU-OsrvAZ1g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "bNkKB7wVU73zBPb_SrXwAg",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/h-VykkZ3c7FoMeFL-iXeAw/o.jpg",
+                    "name": "Saketh A.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=bNkKB7wVU73zBPb_SrXwAg"
+                }
+            }
+        ],
+        "total": 128
+    },
     "tO62ZHOAFuMR5pl-fimJLg": {
         "possible_languages": [
             "en",
@@ -382,6 +3123,196 @@
             }
         ],
         "total": 1538
+    },
+    "uCtI_VzK-snfYg5mKQRWgQ": {
+        "possible_languages": [
+            "en"
+        ],
+        "reviews": [
+            {
+                "id": "vQK36wra9YIr-_XDU-lSmw",
+                "rating": 5,
+                "text": "THE BEST TACO TRUCK IN THE BAY. I said what I said lol. They're open late night and all day. Perfect for tacos after the club or lunch at the lake. I love...",
+                "time_created": "2023-03-17 21:10:09",
+                "url": "https://www.yelp.com/biz/tacos-mi-rancho-oakland?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=vQK36wra9YIr-_XDU-lSmw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "4m9Jxt-yd3iagnl2apSioA",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/F0zJX-MPzfmMDRZUuxe6tg/o.jpg",
+                    "name": "Joey T.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=4m9Jxt-yd3iagnl2apSioA"
+                }
+            },
+            {
+                "id": "QrNzK0jiOxQ9WSU26JUHIg",
+                "rating": 4,
+                "text": "Stopped by this food truck by Lake Merritt and there was a line during lunch hour. I ordered 4 tacos and it was $3.00+ each, which is a bit pricy but the...",
+                "time_created": "2023-04-03 11:25:28",
+                "url": "https://www.yelp.com/biz/tacos-mi-rancho-oakland?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=QrNzK0jiOxQ9WSU26JUHIg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "bmjLF4ZbEhtZqgijgCVcIA",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/Rs5ExTMqJ6H-5c5jlN9u1w/o.jpg",
+                    "name": "Grace T.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=bmjLF4ZbEhtZqgijgCVcIA"
+                }
+            },
+            {
+                "id": "xc-ahbCJMWKz7byGRvLQMw",
+                "rating": 5,
+                "text": "When our power went out during the storm and I wasn't able to cook, I took a chance to go to Tacos Mi Rancho with the hopes that this part of Oakland had...",
+                "time_created": "2023-03-08 09:20:11",
+                "url": "https://www.yelp.com/biz/tacos-mi-rancho-oakland?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=xc-ahbCJMWKz7byGRvLQMw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "s46TYcJV_Nv6J0jYfusp4A",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/kpTp6Tn9gEi6l-yX2glmhg/o.jpg",
+                    "name": "Tara M.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=s46TYcJV_Nv6J0jYfusp4A"
+                }
+            }
+        ],
+        "total": 1014
+    },
+    "xITfFMC2lHGM0EHcYwlqcA": {
+        "possible_languages": [
+            "en"
+        ],
+        "reviews": [
+            {
+                "id": "gX4O7kyTUs2SCoAIe6cSMg",
+                "rating": 5,
+                "text": "Tacos el gordo always great! First time at the downtown location.\n\nWe ordered adobada, asada, cabeza, vampiro, and small steak fries. \n\nThe value is pretty...",
+                "time_created": "2023-04-01 11:26:17",
+                "url": "https://www.yelp.com/biz/tacos-el-gordo-san-diego-7?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=gX4O7kyTUs2SCoAIe6cSMg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "0IHXx759icfM3JvRUf-ssQ",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/gL9GaJIHpS0PX1y-mKU1NA/o.jpg",
+                    "name": "Arthur T.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=0IHXx759icfM3JvRUf-ssQ"
+                }
+            },
+            {
+                "id": "m_0ZTOXIpDxo552HN_ssEg",
+                "rating": 4,
+                "text": "Tacos el Gordo reminds me of King Taco. Lines, and food service is super fast. A colleague recommended the ADOBADA. I opted for the SOPE ADOBADA. It was...",
+                "time_created": "2023-03-29 17:59:34",
+                "url": "https://www.yelp.com/biz/tacos-el-gordo-san-diego-7?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=m_0ZTOXIpDxo552HN_ssEg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "KVJMmL0YhWwZRUhhMNkpjA",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/HDw7DuQZd2Kov40IZLGo-g/o.jpg",
+                    "name": "Darlene Y.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=KVJMmL0YhWwZRUhhMNkpjA"
+                }
+            },
+            {
+                "id": "xbt5DRf9Uh4cUuiUka2AFQ",
+                "rating": 4,
+                "text": "This was my first time trying this place. I know they have 2 other restaurants which I have not tried either. This place gets packed on the weekends because...",
+                "time_created": "2023-03-27 22:06:05",
+                "url": "https://www.yelp.com/biz/tacos-el-gordo-san-diego-7?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=xbt5DRf9Uh4cUuiUka2AFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "PLzpAAU0oZ_YrilyYk3cvQ",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/-tCxACjTb_UGBp6qepauWg/o.jpg",
+                    "name": "Junior M.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=PLzpAAU0oZ_YrilyYk3cvQ"
+                }
+            }
+        ],
+        "total": 125
+    },
+    "xsm2uqj58l8QTqHxRgbMHQ": {
+        "possible_languages": [
+            "en",
+            "fr",
+            "es"
+        ],
+        "reviews": [
+            {
+                "id": "uYZCzXo9OmUPlU89VscW1A",
+                "rating": 5,
+                "text": "If you're looking for a burrito look no further! This spot slaps every time. I've been here a number of times and tried a handful of things off their menu,...",
+                "time_created": "2023-03-09 18:25:38",
+                "url": "https://www.yelp.com/biz/california-burritos-san-diego?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=uYZCzXo9OmUPlU89VscW1A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "DsU82tuLel8gVJ1nVAgnWQ",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/YmkH-fWRvcIdu6KJzHmTCA/o.jpg",
+                    "name": "Miguel A.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=DsU82tuLel8gVJ1nVAgnWQ"
+                }
+            },
+            {
+                "id": "bWOZbLs6GVRjPdL0OFCT4g",
+                "rating": 3,
+                "text": "Just ok~ \n\nService was quick and efficient. The place has some picnic style seating outside so it's a pretty inviting spot. \n\nWe ordered the breakfast...",
+                "time_created": "2023-03-12 00:10:29",
+                "url": "https://www.yelp.com/biz/california-burritos-san-diego?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=bWOZbLs6GVRjPdL0OFCT4g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "pXV0GMfcb9JPcCLaDP1SCg",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/8m3E0mFBEP498VV_-O87eA/o.jpg",
+                    "name": "Phoebe C.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=pXV0GMfcb9JPcCLaDP1SCg"
+                }
+            },
+            {
+                "id": "chdLCyTxjM5w4cvFTiw3UQ",
+                "rating": 4,
+                "text": "If you want some good mexican food this the place to try! \nThey have a really big menu and the food is delicious! \nIn my opinion, one thing that makes a...",
+                "time_created": "2023-03-05 22:03:03",
+                "url": "https://www.yelp.com/biz/california-burritos-san-diego?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=chdLCyTxjM5w4cvFTiw3UQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "h-M6jqiYuisQ6MBOXPoWrA",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/I4hFzrENsYWZI1TKmhslpQ/o.jpg",
+                    "name": "James B.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=h-M6jqiYuisQ6MBOXPoWrA"
+                }
+            }
+        ],
+        "total": 1064
+    },
+    "y5ayVrzfwUz2vAgC1ImOUQ": {
+        "possible_languages": [
+            "en"
+        ],
+        "reviews": [
+            {
+                "id": "b0XGF_OJSo6jmx7PgtzxWA",
+                "rating": 5,
+                "text": "First time dining in as it is right around the corner from home. The parking lot always appears to be full, which is a great sign. Very elegant space with...",
+                "time_created": "2023-03-31 06:33:44",
+                "url": "https://www.yelp.com/biz/the-boro-ann-arbor?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=b0XGF_OJSo6jmx7PgtzxWA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "m_A8O_CQkUHar42mwqkfMg",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/MpGrvK0uNDFDMOX_pUjX9g/o.jpg",
+                    "name": "Sofia N.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=m_A8O_CQkUHar42mwqkfMg"
+                }
+            },
+            {
+                "id": "WyasyrLNQXFlexvDWUouFg",
+                "rating": 2,
+                "text": "We came here for a surprise birthday brunch. 12 ladies. The hostess and bartender were super helpful and so sweet, but our waiter once we sat at the table...",
+                "time_created": "2023-04-02 14:30:24",
+                "url": "https://www.yelp.com/biz/the-boro-ann-arbor?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=WyasyrLNQXFlexvDWUouFg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "pj_Zi30lux8ymwgSTVoHMw",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/iVHOad2IE7YmcOQqZQL9nA/o.jpg",
+                    "name": "Lindsay W.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=pj_Zi30lux8ymwgSTVoHMw"
+                }
+            },
+            {
+                "id": "Fzy8LD8xmTHsmBtCMkdCLA",
+                "rating": 5,
+                "text": "I wish I had words to describe how luxurious of an experience this was. I came here for my birthday and the food was incredible. Every entree was super...",
+                "time_created": "2023-03-30 16:10:10",
+                "url": "https://www.yelp.com/biz/the-boro-ann-arbor?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=Fzy8LD8xmTHsmBtCMkdCLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "HVzK5R72aLmaEYJyD5YcbA",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/ynAttT3eap8RxxR6_dHhLw/o.jpg",
+                    "name": "Jessica L.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=HVzK5R72aLmaEYJyD5YcbA"
+                }
+            }
+        ],
+        "total": 136
     },
     "yQTCIW30CvtfeUd_Oh5W7g": {
         "possible_languages": [

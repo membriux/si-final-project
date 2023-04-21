@@ -4,7 +4,6 @@
 {% extends 'base.html' %}
 
 {% block home %} active {% endblock %}
-{% block about %}  {% endblock %}
 
 {% block content %}
 
@@ -13,7 +12,6 @@
         <div class="col text-center">
             <h1> {% block title %} Food Sentiments {% endblock %} </h1>
             <small class="text-secondary">Analyze food sentiments of reviews of food from restaurants on Yelp.</small> <br>
-            <small class="text-secondary"><a href="https://github.com/membriux/food-sentiment">GitHub Repository</a></small> <br>
         </div>
     </div>
 </div>
@@ -23,11 +21,12 @@
 <div class="container search-section">
     <form method="post">
         <div class="mb-3">
-            <input name="term" type="text" class="form-control" placeholder="Food (i.e. tacos)" >
+            <input name="term" value='{{ term }}' type="text" class="form-control" placeholder="Food (i.e. tacos)">
         </div>
 
         <div class="input-group mb-3">
-          <input name="location" type="text" class="form-control" placeholder="City (i.e. Irvine)" aria-label="Search" aria-describedby="button-addon2">
+        <input name="location" value='{{ location }}' type="text" class="form-control" placeholder="City (i.e. Irvine)" aria-label="Search"
+            aria-describedby="button-addon2">
           <div class="input-group-append">
               <button class="btn btn-outline-primary" type="submit" id="search">Search</button>
           </div>
@@ -41,6 +40,8 @@
 
     <div class="row">
         <div class="col">
+            <small class="text-secondary"> <b>Loaded from cache: </b>{{cache}}</small>
+            <br>
             <small class="text-secondary"> <b>Showing results for: </b>{{term}} in {{location}}</small>
             <br>
         </div>
