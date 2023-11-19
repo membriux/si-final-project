@@ -191,6 +191,53 @@
         ],
         "total": 6243
     },
+    "0BS-tP3sXZh5Bir6CQDT0A": {
+        "possible_languages": [
+            "en"
+        ],
+        "reviews": [
+            {
+                "id": "ABJAX5PotXWespIvJnAOPw",
+                "rating": 5,
+                "text": "Claire was a fantastic server! It was our first time at condado and she was extremely helpful with the menu and recommended the best tacos! Bless her!",
+                "time_created": "2023-10-26 15:52:05",
+                "url": "https://www.yelp.com/biz/condado-tacos-ann-arbor?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=ABJAX5PotXWespIvJnAOPw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "or07wdVzrJb_rp6-dWmGrA",
+                    "image_url": null,
+                    "name": "S S.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=or07wdVzrJb_rp6-dWmGrA"
+                }
+            },
+            {
+                "id": "GBz9X0zjuCYx2dQ5_lVBGg",
+                "rating": 5,
+                "text": "We ate at Condado Tacos during a busy football weekend. We were able to get a table for 4 within 10 minutes at 6:00, however, reservations are recommended...",
+                "time_created": "2023-10-22 07:34:43",
+                "url": "https://www.yelp.com/biz/condado-tacos-ann-arbor?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=GBz9X0zjuCYx2dQ5_lVBGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "vYM0ZGlW_ZGV_LQdsLISOQ",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/wb4pd0FLc8ME3X2387vt8g/o.jpg",
+                    "name": "Jane S.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=vYM0ZGlW_ZGV_LQdsLISOQ"
+                }
+            },
+            {
+                "id": "W8s_MSrZCsMSBcfpCaXtUA",
+                "rating": 4,
+                "text": "What a cool place!  The ambiance with the colorful walls really makes this place stand out. Sooo much to look at, conversant about or just absorb as you...",
+                "time_created": "2023-11-13 17:44:29",
+                "url": "https://www.yelp.com/biz/condado-tacos-ann-arbor?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=W8s_MSrZCsMSBcfpCaXtUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "8xS6w0cLkI1T7kTgaSZFxw",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/tzOi7AwYo6Wa3Ul2TIvFow/o.jpg",
+                    "name": "Christina C.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=8xS6w0cLkI1T7kTgaSZFxw"
+                }
+            }
+        ],
+        "total": 89
+    },
     "17G67GkODedOfTM5QTGCwQ": {
         "possible_languages": [
             "en",
@@ -1047,6 +1094,88 @@
             }
         ],
         "total": 598
+    },
+    "GPzt1fncpK_Foi_DBYlYBg": {
+        "possible_languages": [
+            "en",
+            "es"
+        ],
+        "reviews": [
+            {
+                "id": "wImYEZOfxJLnRyJB7JJW7Q",
+                "rating": 4,
+                "text": "My wife and I ate lunch on a Sunday afternoon.  I kicked off with a mango habenero margarita.  Very good.  Carrot flavored and a little heat.\n\nWe started...",
+                "time_created": "2023-11-18 10:53:41",
+                "url": "https://www.yelp.com/biz/isalita-ann-arbor?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=wImYEZOfxJLnRyJB7JJW7Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "w3k10dexwRBG56AdqQsbiQ",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/photo/-Jqk7f0Ty-K3oS14NP9TCQ/o.jpg",
+                    "name": "Mark L.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=w3k10dexwRBG56AdqQsbiQ"
+                }
+            },
+            {
+                "id": "8he6W2dMA5MnLB6kp5E0yQ",
+                "rating": 5,
+                "text": "We only stop by during Happy Hour  Margaritas tasted sweet and delicious at a great price.  This would be a fun place to celebrate!\n\nThank you Isalita! We...",
+                "time_created": "2023-10-29 14:14:51",
+                "url": "https://www.yelp.com/biz/isalita-ann-arbor?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=8he6W2dMA5MnLB6kp5E0yQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "FwGaLeqA7JMzRLvHrJzGRQ",
+                    "image_url": "https://s3-media4.fl.yelpcdn.com/photo/Gk0lvaNPuSO2LWkd4bbotA/o.jpg",
+                    "name": "Judy N.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=FwGaLeqA7JMzRLvHrJzGRQ"
+                }
+            },
+            {
+                "id": "sX3C0e8OEEG8DC8_LI441A",
+                "rating": 5,
+                "text": "This place continues to be a favorite! Adding some additional items to my favorite foods here: \n\nforest mushroom empanadas $13 \nhuitlacoche vinaigrette,...",
+                "time_created": "2023-08-07 14:00:10",
+                "url": "https://www.yelp.com/biz/isalita-ann-arbor?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=sX3C0e8OEEG8DC8_LI441A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "P4zSRpFpV9jKDVCypHs4Qg",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/photo/aZV45UjtOyDpAzcowp732A/o.jpg",
+                    "name": "Shelley A.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=P4zSRpFpV9jKDVCypHs4Qg"
+                }
+            }
+        ],
+        "total": 603
+    },
+    "HxL8uLZ1IVmDQaFPf7f3vg": {
+        "possible_languages": [
+            "en"
+        ],
+        "reviews": [
+            {
+                "id": "u01FUBFU3dbuNihk3cp9Dw",
+                "rating": 5,
+                "text": "Came here on my way home from work the other day. They're located in a former Taco Bell lot on Ecorse. I'm excited that there's good food options besides...",
+                "time_created": "2023-01-26 11:32:43",
+                "url": "https://www.yelp.com/biz/birria-el-jefe-ypsilanti?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=u01FUBFU3dbuNihk3cp9Dw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "8FQlENkLVyT0ezuOMnJ_eA",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/photo/TTjy5wYd9iezK6QltBkMTw/o.jpg",
+                    "name": "Rachel B.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=8FQlENkLVyT0ezuOMnJ_eA"
+                }
+            },
+            {
+                "id": "nmFrtNNL2S22Xv3kAycicg",
+                "rating": 5,
+                "text": "Food was 3 tacos and a drink for 10, phenomenal. Guy was very nice as well as his kid he offered to set up a table if I wanted to eat it there and if I...",
+                "time_created": "2023-05-12 15:23:25",
+                "url": "https://www.yelp.com/biz/birria-el-jefe-ypsilanti?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&hrid=nmFrtNNL2S22Xv3kAycicg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+                "user": {
+                    "id": "xOHNlylyJ5OZOliYoUNBqg",
+                    "image_url": null,
+                    "name": "Kyin G.",
+                    "profile_url": "https://www.yelp.com/user_details?userid=xOHNlylyJ5OZOliYoUNBqg"
+                }
+            }
+        ],
+        "total": 2
     },
     "I05n0mnefd9YhD1upBV5Zg": {
         "possible_languages": [
